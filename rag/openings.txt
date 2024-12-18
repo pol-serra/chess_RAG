@@ -1,0 +1,2060 @@
+OPEN GAMES
+They start:
+1. e2-e4 e7-e5
+WHITE SAYS:
+You're expecting the Ruy Lopez? Tough. I'm going to
+play my favourite opening and see what you know
+about it. It could be anything from a wild gambit to a
+quiet line. You'll soon find out.
+BLACK SAYS:
+These openings really aren't so scary. I'm well
+prepared: I can reach at least an equal position
+whichever one you choose. Go ahead and do your
+worst.
+Most of these openings fall into one of three
+categories:
+1. White plays for a central break with d4 (Scotch Game,
+Ponziani, most lines of Giuoco Piano and Two Knights).
+2. White plays for a central break with f4 (King's Gambit,
+most lines of the Vienna and Bishop's Opening).
+3. White plays quietly with d3 (Giuoco Pianissimo, Spanish
+Four Knights).
+We also look at some other defences for Black after 2.
+Ng1-f3, from safe defensive systems to sharp counter-
+gambits. What should Black do next?Ideas for White:
+Adults will expect the Ruy Lopez while juniors are more used to this sort of opening.
+So it's a good idea to play the Ruy Lopez against juniors, and, for example, the Giuoco
+Piano against adults.
+Most of these openings lead to open positions. Rapid, effective development and King
+safety are the most important factors.
+Don't play the Ng5 line against good opponents unless you really know what you're
+doing. They won't fall for the Fried Liver Attack: in many lines Black gives up a pawn ortwo for a dangerous initiative.
+It's worth learning a good reply to the Latvian and Elephant Gambits: they're quite
+popular at club level.
+Ideas for Black:
+1. A lot of these lines are very dangerous against an unprepared opponent.
+If you play 1... e5 you MUST have a good defence against ALL these
+openings.
+2. In most of these openings the key move for Black to equalise is d7-d5.
+Go for it. Against gambits it's often worth returning the gambit pawn toplay it.
+3. There are several good ways for Black to avoid the Ruy Lopez. If you're
+looking for a safe, solid defence, consider the Petroff. If you don't mindtaking a risk, try the Philidor with 3... f5.
+4. If White opens the position with d4 or f4, rapid development and King
+safety are of paramount importance.THE GIUOCO PIANO
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-c4 Bf8-c5
+White can now choose: a) the Giuoco Pianissimo (d3 and
+Nc3) - boring as long as Black avoids castling after Bg5, b)
+the modern closed system (d3 and c3), with similar ideasto the Ruy Lopez, c) the classical Giuoco Piano (c3 and d4)
+- Black can equalise easily if he knows the theory but can
+lose quickly if he doesn't or d) the Evans Gambit (b4followed by c3 and d4 when Black takes the pawn).THE TWO KNIGHTS' DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-c4 Ng8-f6
+Now White has a) Nc3 (not recommended: Nxe4 followed
+by d5 is fine for Black, b) d3 followed by c3 or Nc3 with aclosed game, c) Ng5, trying for the Fried Liver Attack, but
+in many lines Black gives up material for a strong attack
+(4. Ng5 d5 5. exd5 Na5 or b5 or Nd4, NOT Nxd5), or d) d4when Black can equalise as long as he avoids all the traps(he must start with exd4, NOT Nxe4).THE SCOTCH GAME
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. d2-d4 e5xd4
+The only good move: 3... d6 4. dxe5 is better for White.
+4. Nf3xd4
+Or White can play c3 - the Goring Gambit or Bc4 - the
+Scotch Gambit
+Now Nxd4 is a mistake, putting the White Queen on a
+strong square. If you don't mind taking a risk, Qh4 is
+interesting: White's best reply is Ndb5. The two main linesare Nf6, to attack a pawn, or Bc5, to attack a knight.THE KING'S GAMBIT
+1. e2-e4 e7-e5
+2. f2-f4
+Black can choose Bc5 (the King's Gambit Declined), d5
+(the Falkbeer Counter-Gambit) or...
+2... e5xf4
+3. Ng1-f3
+The usual move, to prevent Qh4+, although Bc4 is alsopossible. Black must choose whether to hold the pawn or
+challenge White in the centre. Here, g5 (to play g4 and
+Qh4+: White's usual reply is h4), d5 and Be7 are gooddefences, but not Bc5 because of d4.THE VIENNA GAME
+1. e2-e4 e7-e5
+2. Nb1-c3 Ng8-f6
+The usual move, but Nc6 is also possible.
+3. f2-f4
+White can also play Bc4 or choose a quiet system with g3
+and Bg2
+3... d7-d5
+The only good move. Unlike the King's Gambit, exf4 is bad
+because of e5 and the Knight has to go back to g8.
+Now play usually continues 4. fxe5 Nxe4 5. Nf3 or 5. d3,
+with equal chances.A brief look at some other ideas for White: 1. e4 e5 2. Nf3
+Nc6 2. Nc3 Nf6 is the FOUR KNIGHTS GAME.
+Now 4. Bc4 again allows Nxe4, 4. d4 is the Scotch Four
+Knights and 4. Bb5 is the Spanish Four Knights: in reply
+Black should play either Bb4 (safe but boring) or Nd4, but
+not a6 when White can safely take on c6 and then on e4.
+1. e4 e5 2. Nf3 Nc6 3. c3 is the PONZIANI OPENING.
+White intends to play d4, but either 3... d5 or 3... Nf6
+equalises.
+1. e4 e5 2. Bc4 is the BISHOP'S OPENING, which might
+become a Giuoco Piano, Vienna Game or King's GambitDeclined.
+1. e4 e5 2. d4 exd4 (the best move) 3. Qxd4 is the
+CENTRE GAME: Black gains time with Nc6.
+1. e4 e5 2. d4 exd4 3. c3 is the DANISH GAMBIT: Black
+can equalise with 3... d5 rather than taking the pawns.Some ideas for Black after 2. Nf3: 1. e4 e5 2. Nf3 Nf6 is
+the PETROFF DEFENCE, a solid choice.
+White could play 3. Nxe5 (when Black must play 3... d6,
+not Nxe4 which loses material after 4. Qe2), 3. d4 or 3.Nc3 when Black can play 3... Bb4 or go into a Four Knights
+with Nc6.
+1. e4 e5 2. Nf3 d6 is the PHILIDOR DEFENCE. White
+usually plays 3. d4 (Bc4 is also good), when Black can a)
+play defensively with Nf6, Nbd7, c6 and Be7, b) play 3...exd4 4. Nxd4 (Qxd4 is also good) or c) play the sharp butrisky 3... f5.
+After 1. e4 e5 2. Nf3, Black could also try 2... f5 (the
+LATVIAN or GRECO COUNTER-GAMBIT) or 2... d5 (the
+ELEPHANT GAMBIT or QUEEN'S PAWN COUNTER GAMBIT.
+They both work well if White plays passively but White cangain an advantage if he knows how.GIUOCO PIANO
+OPEN VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-c4 Bf8-c5
+4. c2-c3 Ng8-f65. d2-d4 e5xd46. c3xd4 Bc5-b4+SCOTCH GAME
+4... Nf6 VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. d2-d4 e5xd4
+4. Nf3xd4 Ng8-f65. Nd4xc6 b7xc66. e4-e5 Qd8-e7PHILIDOR DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 d7-d63. d2-d4 Ng8-f6
+4. Nb1-c3 Nb8-d7
+5. Bf1-c4 Bf8-e76. 0-0 0-0
+GIUOCO PIANO
+MODERN CLOSED VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-c4 Bf8-c5
+4. c2-c3 Ng8-f6
+5. d2-d3 d7-d6SCOTCH GAME
+4... Bc5 VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. d2-d4 e5xd4
+4. Nf3xd4 Bf8-c5
+5. Nd4-b3 Bc5-b66. a2-a4 a7-a6VIENNA GAME
+1. e2-e4 e7-e5
+2. Nb1-c3 Ng8-f63. f2-f4 d7-d54. f4xe5 Nf6xe4
+5. Ng1-f3 Bf8-e7
+EVANS GAMBIT
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-c4 Bf8-c54. b2-b4 Bc5xb45. c2-c3 Bb4-a5
+6. d2-d4 d7-d6
+GORING GAMBIT
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. d2-d4 e5xd44. c2-c3 d4xc35. Nb1xc3 Bf8-b4
+6. Bf1-c4 d7-d6KING'S GAMBIT ACCEPTED
+KIESERITZKY GAMBIT
+1. e2-e4 e7-e5
+2. f2-f4 e5xf43. Ng1-f3 g7-g54. h2-h4 g5-g4
+5. Nf3-e5 Ng8-f6
+6. d2-d4 d7-d6
+TWO KNIGHTS DEFENCE
+4. Ng5 VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-c4 Ng8-f64. Nf3-g5 d7-d55. e4xd5 Nc6-a5
+6. Bc4-b5+ c7-c6
+7. d5xc6 b7xc6SCOTCH FOUR KNIGHTS
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Nb1-c3 Ng8-f6
+4. d2-d4 e5xd45. Nf3xd4 Bf8-b46. Nd4xc6 b7xc6KING'S GAMBIT ACCEPTED
+3... d5 DEFENCE
+1. e2-e4 e7-e5
+2. f2-f4 e5xf4
+3. Ng1-f3 d7-d54. e4xd5 Ng8-f65. Bf1-c4 Nf6xd5
+TWO KNIGHTS DEFENCE
+4. d4 VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-c4 Ng8-f64. d2-d4 e5xd4
+5. 0-0 Nf6xe4
+6. Rf1-e1 d7-d5SPANISH FOUR KNIGHTS
+RUBINSTEIN VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Nb1-c3 Ng8-f64. Bf1-b5 Nc6-d4
+5. Bb5-a4 Bf8-c5
+6. Nf3xe5 0-0KING'S GAMBIT DECLINED
+1. e2-e4 e7-e5
+2. f2-f4 Bf8-c5
+3. Ng1-f3 d7-d6
+4. Nb1-c3 Ng8-f65. Bf1-c4 Nb8-c6
+6. d2-d3 Bc8-g4
+TWO KNIGHTS DEFENCE
+MAX LANGE ATTACK
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-c4 Ng8-f6
+4. d2-d4 e5xd45. 0-0 Bf8-c5
+6. e4-e5 d7-d5
+7. e5xf6 d5xc4PETROFF DEFENCE
+3. Nxe5 VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Ng8-f6
+3. Nf3xe5 d7-d6
+4. Ne5-f3 Nf6xe45. d2-d4 d7-d5DANISH GAMBIT
+1. e2-e4 e7-e5
+2. d2-d4 e5xd43. c2-c3 d4xc3
+4. Bf1-c4 c3xb2
+5. Bc1xb2 d7-d5THE RUY LOPEZ
+It starts:
+1. e2-e4 e7-e52. Ng1-f3 Nb8-c63. Bf1-b5
+WHITE SAYS:
+I'm going to attack your e-pawn and prevent you
+playing d5 to free your game. At the same time I'll
+set up a pawn centre with d4, perhaps after playing
+c3 first.
+BLACK SAYS:
+I'm going to defend my centre and play to reach anequal position. I'll make sure you don't take over all
+the centre and when you overreach I'll hit back and
+take the advantage.
+What happens next?
+The tactical battle over the next few moves revolves
+around the two e-pawns. The best way to explain
+this is to go through the most popular variation
+move by move.
+The first thing to note is that White is not yet
+threatening the e-pawn. If he plays Bb5xc6 d7xc6Nf3xe5 Black will win the pawn back with a Queen
+Fork: Qd8-d4 with a good position. So Black usually
+plays:
+3... a7-a6
+to be able to break the potential pin whenever he
+chooses.
+4. Bb5-a4 Ng8-f6
+Black does best to wait until he's closer to castling
+before playing b7-b5.5. 0-0
+Now White's King is safe he is threatening the e-
+pawn.
+5... Bf8-e7
+Nf6xe4 is the Open Variation: Black can take the
+pawn but not keep it. Instead he plugs the e-file so
+is now threatening the e-pawn.
+6. Rf1-e1
+White defends his e-pawn and in doing so renews
+the attack on the Black e-pawn.
+6... b7-b5
+7. Ba4-b3 d7-d6
+Now both e-pawns are safe. White continues with
+c2-c3, preparing d2-d4.Ideas for White:
+1. Look for opportunities to capture safely on e5, especially
+if Black's foolish enough to play d5.
+2. Don't play Nb1-c3 before d2-d4. If Black plays an early
+d7-d6 you can reply with d2-d4 followed by Nb1-c3.Otherwise, play c2-c3 before d2-d4.
+3. If you've played c2-c3 look for the Knight tour Nb1-d2,
+f1, g3, f5 or Nb1-d2, f1, e3, d5.
+4. If Black plays Bf8-c5 early on it's often worth playing
+Nf3xe5 followed by d2-d4.
+5. Before Black's castled you can often give up your e-
+pawn to catch his King on the open e-file. Otherwise,make sure your e-pawn is defended.
+6. Learn the Noah's Ark Trap: if White takes on d4 with his
+Queen: Black plays c7-c5 to hit the Queen and c5-c4 totrap the Bishop.
+Ideas for Black:
+1. Make sure your e-pawn is defended at all times. In
+particular, playing d7-d5 with the White Bishop on b5 ora4 will probably allow Nf3xe5.
+2. Be very careful about capturing on e4 when your King is
+still in the centre: watch out for tactics on the e-file.
+3. If you're playing down the main line make sure you get
+the move order right.
+4. In the middle game look for ways of attacking White's
+centre with c7-c5 or d7-d5.
+5. If you're defending the Exchange Variation keep the
+Bishops if you can. Most pawn endings will be lost.
+6. If you're looking for a sharp defence to e2-e4 a look at
+the Schliemann Defence, 3... f7-f5.THE STEINITZ DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 d7-d6
+Not Black's best move, but often played by those who
+think the e-pawn is attacked. White should reply 4. d2-d4
+when Black has a solid but cramped position. White is
+already threatening d4-d5 so Black should play Bc8-d7.White then does best to continue developing with Nb1-c3rather than pushing the d-pawn.THE CLASSICAL DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 Bf8-c5
+Another move you'll often meet at lower levels. White's
+ideas are c2-c3 followed by d2-d4 and Nf3xe5 followed by
+d2-d4, possibly preceded by 0-0. The same ideas are
+possible at any time if Black plays an early Bf8-c5. Bothplans give White chances of an advantage.THE BERLIN DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 Ng8-f6
+Another solid defence. White's usual reply is 4. 0-0,
+threatening the e-pawn. Then d7-d6 is a Steinitz Defence.
+Or Black can play Nf6xe4 when White can regain the pawn
+at once with Rf1-e1 or play the stronger, but morecomplicated, d2-d4. Black has to be careful about tacticson the e-file.THE EXCHANGE VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a64. Bb5xc6 d7xc6
+A good choice for White if you like simplified positions and
+endings. He could now play 5. d2-d4 e5xd4 6. Qd1xd4
+Qd8xd4 7. Nf3xd4 when White will be winning the pawn
+ending if Black lets him get there, or he could defend hispawn directly with Nb1-c3 or d2-d3, or indirectly with 0-0(the best move) and see how Black proposes to defend his
+threatened e-pawn.THE OPEN VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a64. Bb5-a4 Ng8-f65. 0-0 Nf6xe4
+6. Rf1-e1 is the simplest move but play usually continues
+6. d2-d4 b7-b5 (e5xd4 is too dangerous) 7. Ba4-b3 d7-d5
+8. d4xe5 Bc8-e6 when Black has active piece play but his
+Queen-side pawns may become weak and his King-sidelooks a bit short of defenders. But it's still a good choice
+for Black if he favours a tactical game.THE CLOSED VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a64. Bb5-a4 Ng8-f65. 0-0 Bf8-e7
+6. Rf1-e1 b7-b5
+7. Ba4-b3 0-08. c2-c3
+Black can sacrifice a pawn with d7-d5 (the Marshall
+Gambit) or play d7-d6 (also often played on move 7).
+Then White usually plays h2-h3 to prevent Bc8-g4 and
+only then d2-d4.RUY LOPEZ
+STEINITZ DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-b5 d7-d6
+4. d2-d4 æc8-d75. Nb1-c3 e5xd46. Nf3xd4 Ng8-f6RUY LOPEZ
+SCHLIEMANN DEFENCE (2)
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-b5 f7-f5
+4. d2-d3 f5xe45. d3xe4 Ng8-f66. 0-0 Bf8-c5RUY LOPEZ DELAYED
+CLASSICAL DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-b5 a7-a6
+4. Bb5-a4 Ng8-f65. 0-0 Bf8-c56. Nf3xe5 Nc6xe5
+RUY LOPEZ
+BIRD'S DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 Nc6-d4
+4. Nf3xd4 e5xd4
+5. 0-0 c7-c6RUY LOPEZ
+EXCHANGE VARIATION (1)
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5xc6 d7xc6
+5. 0-0 f7-f66. d2-d4 e5xd4RUY LOPEZ
+ARCHANGELSK VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5-a4 Ng8-f6
+5. 0-0 b7-b56. Ba4-b3 Bc8-b7
+7. Rf1-e1 Bf8-c5
+RUY LOPEZ
+SMYSLOV DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 g7-g6
+4. d2-d4 e5xd4
+5. Bc1-g5 f7-f66. Bg5-h4 Bf8-g7RUY LOPEZ
+EXCHANGE VARIATION (2)
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5xc6 d7xc6
+5. d2-d4 e5xd46. Qd1xd4 Qd8xd4RUY LOPEZ
+OPEN VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5-a4 Ng8-f6
+5. 0-0 Nf6xe46. d2-d4 b7-b5
+7. Ba4-b3 d7-d5
+RUY LOPEZ
+CLASSICAL DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 Bf8-c5
+4. c2-c3 Ng8-e7
+5. 0-0 Bc5-b66. d2-d4 e5xd4RUY LOPEZ STEINITZ DEFENCE
+DEFERRED (1)
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5-a4 d7-d6
+5. Ba4xc6+ b7xc66. d2-d4 f7-f6RUY LOPEZ DOUBLE DELAYED
+EXCHANGE VARIATION
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5-a4 Ng8-f6
+5. 0-0 Bf8-e76. Ba4xc6 d7xc6
+RUY LOPEZ
+BERLIN DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 Ng8-f6
+4. 0-0 Nf6xe4
+5. d2-d4 Ne4-d6RUY LOPEZ STEINITZ
+DEFENCE DEFERRED (2)
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5-a4 d7-d6
+5. c2-c3 f7-f56. e4xf5 Bc8xf5RUY LOPEZ MARSHALL ATTACK
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-b5 a7-a64. Bb5-a4 Ng8-f6
+5. 0-0 Bf8-e7
+6. Rf1-e1 b7-b57. Ba4-b3 0-08. c2-c3 d7-d5
+RUY LOPEZ
+SCHLIEMANN DEFENCE (1)
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 f7-f5
+4. Nb1-c3 f5xe4
+5. Nc3xe4 d7-d5RUY LOPEZ
+CENTRE ATTACK
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c63. Bf1-b5 a7-a6
+4. Bb5-a4 Ng8-f6
+5. d2-d4 e5xd46. 0-0 Bf8-e7RUY LOPEZ CLOSED DEFENCE
+1. e2-e4 e7-e5
+2. Ng1-f3 Nb8-c6
+3. Bf1-b5 a7-a64. Bb5-a4 Ng8-f6
+5. 0-0 Bf8-e7
+6. Rf1-e1 b7-b57. Ba4-b3 d7-d68. c2-c3 0-0THE FRENCH DEFENCE
+It starts:
+1. e2-e4 e7-e62. d2-d4 d7-d5
+WHITE SAYS:
+What sort of opening do you call that? You've got a
+cramped position and your bishop on c8 is about as
+much use as a fridge to an Eskimo!
+BLACK SAYS:
+Your house isn't made of bricks. It's only made of
+straw. I'll attack my centre with my c-pawn, my f-
+pawn and all my pieces. I'll huff and I'll puff and I'llblow your house down!
+White's e-pawn is attacked. What should he
+do?
+He could exchange it (exd5, the EXCHANGE
+VARIATION), popular with wimps who wantto play safe.
+He could advance it (e4-e5, the ADVANCE
+VARIATION), very popular in junior chessbut Black usually does well against it.
+He could defend it (Nb1-c3, the main line,
+or Nb1-d2, the TARRASCH VARIATION), themaster choice.What's the big idea?
+The FRENCH DEFENCE is a battle for control
+of the central dark squares: d4 and e5.
+If White keeps control of these squares he
+will stand better.
+If Black can take over control of these
+squares he will be able to advance hiscentre pawns and win the game.
+When White plays e5 he creates a PAWN
+CHAIN.
+The key moves for Black are the PAWN
+BREAKS c7-c5 and f7-f6.
+If you're Black play c7-c5 as soon as you
+can. Play f7-f6 as soon as you can AFTERYOU'VE CASTLED.Ideas for White:
+1. Try to get your light-squared Bishop onto the b1-h7
+diagonal. Don't exchange it for Black's light squared
+Bishop if you can help it.
+2. If Black develops slowly try to play f2-f4 and f4-f5.
+3. If Black moves out his dark-squared Bishop consider
+playing Qd1-g4.
+4. Don't attack Black's centre with c2-c4 (or c3-c4) while
+he still has a light-squared bishop on the board.
+5. If you've exchanged off your pawn on e5 try to occupy
+e5 with a piece.
+6. If you've exchanged off your pawn on d4 try to occupy
+d4 with a piece.
+Ideas for Black:
+1. Play c7-c5 as soon as you can, but watch out for Nc3-b5
+followed by Nb5-d6.
+2. Play f7-f6 as soon as your King is safe BUT NOT
+BEFORE: White may have tactics based on Bd3 and Qh5.
+3. Think twice before playing either c5xd4 or c5-c4. Both
+these moves are sometimes good but do take the
+pressure off White's centre.
+4. Consider exchanging off your light-squared Bishop by
+playing b6 and Ba6.
+5. Aim for exchanges to free your cramped position.
+6. If the centre remains blocked start a pawn advance on
+the opposite side of the board to where your King isliving.THE ADVANCE VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d53. e4-e5 c7-c5
+Black attacks White's centre.
+4. c2-c3 Nb8-c6
+White defends his centre and Black attacks it again.
+5. Ng1-f3 Qd8-b6
+Attacking the b-pawn so White cannot develop his Bishop
+on c1.
+Now White can choose Bf1-e2 (simple development), Bf1-
+d3 (a pawn sacrifice which Black cannot take next move -why?) or a2-a3 with the idea of b2-b4, taking the pressure
+off the centre.THE CLASSICAL VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d53. Nb1-c3 Ng8-f6
+Black attacks e4 again
+4. Bc1-g5 Bf8-e7
+White defends by pinning the Knight so Black unpins.
+5. e4-e5 Nf6-d76. Bf8xe7 Qd8xe7
+White exchanges off his Bad Bishop for Black's Good
+Bishop
+White's best move now is f2-f4, when Black cannot play
+c7-c5 because of Nc3-b5 so can choose either a7-a6 or 0-
+0, followed by c7-c5 next move.THE STEINITZ VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d53. Nb1-c3 Ng8-f64. e4-e5 Nf6-d7
+In this variation White will develop his Queen's Bishop on
+e3 to fight for control of d4.
+5. f2-f4 c7-c5
+Two important moves. White takes firm control of e5 andBlack attacks d4.
+6. Ng1-f3 Nb8-c6 
+Black keeps on attacking d4 so White should now defend it
+again with Bc1-e3.THE WINAWER VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d53. Nb1-c3 Bf8-b4
+Black pins the Knight on c3 and threatens to take the
+pawn on e4.
+4. e4-e5 c7-c5
+White meets the threat by advancing his e-pawn and Blackswitches his attack to d4.
+5. a2-a3 Bb4xc3
+6. b2xc3 Ng8-e7
+Not so good is Nb8-c6 because Qd1-g4 is a strong reply.
+Now White can choose simple development with Ng1-f3 or
+attack g7 with the aggressive Qd1-g4.THE TARRASCH VARIATION
+1. e2-e4 e7-e62. d2-d4 d7-d53. Nb1-d2 Ng8-f6
+White has two good reasons for playing Nb1-d2. It stops
+Black pinnning his Knight with Bf8-b4 and allows him tosupport his pawn centre with c2-c3.
+4. e4-e5 Nf6-d7
+5. c2-c3 c7-c5
+White has two plans here: to defend his centre with f4, or
+to exchange pawns when Black plays f6. In both cases he
+usually develops his Queen's Knight on f3 and his King's
+Knight on e2.THE GREEK GIFT
+Take a look at this game.
+1.e2-e4 e7-e6 2.d2-d4 d7-d5 3.Nb1-c3 Bf8-b4 4.e4-e5
+Ng8-e7 5.Qd1-g4 0-0 6.Ng1-f3 Nb8-d7 7.Bf1-d3 c7-c5
+8.Bd3xh7+ Kg8xh7 9.Nf3-g5+ Kh7-g8
+10.Qg4-h5 Rf8-e8 11.Qh5xf7+ Kg8-h812.Ng5xe6 Black resignsEveryone who plays the French Defencewith either colour must know andunderstand the Bishop sacrifice on h7 - theGREEK GIFT SACRIFICE.FRENCH DEFENCE
+EXCHANGE VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. e4xd5 e6xd5
+4. Ng1-f3 Ng8-f65. Bf1-d3 Bf8-d6FRENCH DEFENCE
+CLASSICAL VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-e75. e4-e5 Nf6-d76. Bg5xe7 Qd8xe7
+7. f2-f4 0-0FRENCH DEFENCE
+WINAWER VARIATION 4. a3
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Bf8-b4
+4. a2-a3 Bb4xc3+5. b2xc3 d5xe46. Qd1-g4 Ng8-f6
+7. Qg4xg7 Rh8-g8
+FRENCH DEFENCE
+ADVANCE VARIATION
+MAIN LINE
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. e4-e5 c7-c54. c2-c3 Nb8-c6
+5. Ng1-f3 Qd8-b6
+6. Bf1-e2 c5xd4FRENCH DEFENCE
+ALEKHINE-CHATARD GAMBIT
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-e75. e4-e5 Nf6-d7
+6. h2-h4 Be7xg5
+7. h4xg5 Qd8xg5FRENCH DEFENCE
+WINAWER VARIATION 4. Ne2
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Bf8-b4
+4. Ng1-e2 d5xe45. a2-a3 Bb4-e7
+6. Nc3xe4 Ng8-f6
+FRENCH DEFENCE
+ADVANCE VARIATION
+MILNER-BARRY GAMBIT
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. e4-e5 c7-c54. c2-c3 Nb8-c6
+5. Ng1-f3 Qd8-b6
+6. Bf1-d3 c5xd4FRENCH DEFENCE
+McCUTCHEON VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-b45. e4-e5 h7-h6FRENCH DEFENCE
+TARRASCH VAR. 3... Nf6 (1)
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-d2 Ng8-f6
+4. e4-e5 Nf6-d75. Bf1-d3 c7-c5
+6. c2-c3 Nb8-c6
+7. Ng1-e2 c5xd4
+FRENCH DEFENCE
+RUBINSTEIN VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 d5xe4
+4. Nc3xe4 Nb8-d75. Ng1-f3 Ng8-f6
+6. Ne4xf6 Nd7xf6
+7. Bf1-d3 Bf8-e7FRENCH DEFENCE
+WINAWER: PAWN SNATCH
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Bf8-b4
+4. e4-e5 c7-c55. a2-a3 Bb4xc3+
+6. b2xc3 Ng8-e7
+7. Qd1-g4 Qd8-c7FRENCH DEFENCE
+TARRASCH VAR. 3... Nf6 (2)
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-d2 Ng8-f6
+4. e4-e5 Nf6-d75. f2-f4 c7-c5
+6. c2-c3 Nb8-c6
+7. Nd2-f3 Qd8-b6
+FRENCH DEFENCE
+STEINITZ VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Ng8-f64. e4-e5 Nf6-d75. f2-f4 c7-c5
+6. Ng1-f3 Nb8-c6FRENCH DEFENCE
+WINAWER: POSITIONAL LINE
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Bf8-b44. e4-e5 c7-c55. a2-a3 Bb4xc3+
+6. b2xc3 Ng8-e7
+7. Ng1-f3 Qd8-a5FRENCH DEFENCE
+TARRASCH VAR. 3...c5 (1)
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-d2 c7-c54. e4xd5 e6xd55. Ng1-f3 Nb8-c6
+6. Bc1-b5 Bf8-d6
+FRENCH DEFENCE
+BURN VARIATION
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Ng8-f64. Bc1-g5 d5xe45. Nc3xe4 Bf8-e7
+6. Bg5xf6 Be7xf6
+7. Ng1-f3 Nb8-d7FRENCH DEFENCE
+WINAWER: FINGERSLIP LINE
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-c3 Bf8-b44. Bc1-d2 d5xe45. Qd1-g4 Ng8-f6
+6. Qg4xg7 Rh8-g8FRENCH DEFENCE
+TARRASCH VAR. 3...c5 (2)
+1. e2-e4 e7-e6
+2. d2-d4 d7-d5
+3. Nb1-d2 c7-c54. e4xd5 Qd8xd55. Ng1-f3 c5xd4
+6. Bf1-c4 Qd5-d6THE SICILIAN DEFENCE
+It starts:
+1. e2-e4 c7-c5
+WHITE SAYS:
+Ha! What's that pawn doing over there? You're
+giving me a free hand on the King side and I'll use itto attack you as hard as I can by throwing my pawns
+and pieces at your king.
+BLACK SAYS:
+You're welcome to the King side. I'm going to attack
+you on the Queen side. If I can't mate you I'll take
+advantage of your King side weaknesses to win the
+ending.
+What should White do next?
+The usual plan is for White to play Ng1-f3
+on move 2 and d2-d4 on move 3. He willthen attack on the King side using bothpawns and pieces. Meanwhile Black has achoice of Pawn formations: d6 and g6 (the
+DRAGON formation, d6 and e6 (the
+SCHEVENINGEN formation, d6 and e5 (theBOLESLAVSKY formation).
+The DRAGON formation.
+Don't play e5: it blocks in your
+Bishop on g7 and weakens yourpawn on d6. Attack down the c-file
+and on the Q-side using pieces and
+pawns.
+The SCHEVENINGEN formation.
+Black sets up a solid position in the
+centre of the board. Attack on the
+Q-side, often with your b-pawn.
+Look for the opportunity to playd6-d5 to open up the centre.
+xabcdefghThe BOLESLAVSKY formation
+The battle rages over the d5
+square. If White establishes a
+Knight on d5 he will have a bigadvantage. If Black plays d6-d5successfully he will obtain at least
+an equal position.
+A classical attacking position for
+White in the Sicilian Defence
+If you head for this position you
+won't go far wrong. Note that
+White has played Nd4-b3 to avoid
+exchanges and Kg1-h1 to get hisKing off the open diagonal. He will
+probably continue with g2-g4
+followed by either f4-f5 or g4-g5with a King-side attack.The Queenoften moves from d1to e1.
+A modern attacking position for
+White in the Sicilian Defence.
+Often played against the Dragon
+Variation: White usually plays Bf1-c4 and not always g2-g4. Be3-h6
+will exchange off Black's Bishop on
+g7 and h4-h5, often as a sacrifice,will open up the h-file. White hopesto mate on h7 or h8. This set-up
+can also be played against other
+Black systems.Ideas for White:
+1. Don't play Bf1-b5 in the Open Sicilian - it only leads to
+exchanges.
+2. Don't play Nd4xc6 unless your next move is going to be
+e4-e5.
+3. Attack with your pawns: it's often worth sacrificing a
+pawn to open lineson the King side.
+4. If Black plays e7-e5 before a7-a6 it's the best reply is
+usually Nd4-b5, aiming for d6.
+5. In the Dragon Variation, if you play Bc1-e3 you must
+either play f2-f3 or Bf1-e2 to avoid Nf6-g4, trying toexchange off your strongest minor piece.
+6. You can only play the Open Sicilian against strong
+(150+) opponents if you're prepared to do a lot of work.You may be better off learning one of the Anti-Sicilian
+lines at the end of the lesson.
+Ideas for Black:
+1. The main idea of the Sicilian Defence is a Queen-side
+attack. You should be playing moves like Qd8-c7, Ra8-
+c8,l a7-a6, b7-b5.
+2. Leave your e-pawn on e7 in the Dragon Variation. If
+you move it you weaken d6 and on e5 it blocks in yourBishop on g7.
+3. Don't play e7-e5 if White has already played either
+Bf1-c4 or Bc1-g5. Both these moves help him controld5.
+4. Don't play a7-a6 in the Dragon - it's usually too slow.
+5. If your opponent throws his K-side pawns forward try
+to play either d5 or e5.
+6. Make sure you know how to play against the Anti-
+Sicilian lines at the end of the lesson.THE DRAGON VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. d2-d4 c5xd44. Nf3xd4 Ng8-f6
+4... g7-g6 is possible but 5. c2-c4 is a strong reply for
+White.
+5. Nb1-c3 g7-g6
+Black prepares to develop his Bishop on g7.
+White's main lines are now 6. Bc1-e3 Bf8-g7 7. f2-f3, the
+Yugoslav Attack and 6. Bf1-e2 Bf8-g7 7. Bc1-e3, the
+Classical Variation).THE NAJDORF VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. d2-d4 c5xd44. Nf3xd4 Ng8-f65. Nb1-c3 a7-a6
+This is partly a waiting move: Black waits to see where
+White is putting his Bishops before deciding whether toplay e7-e6 or e7-e5, and partly the start of a Queen-side
+attack.
+White now has many good moves, Bc1-g5, Bc1-e3, Bf1-c4,
+Bf2-e2, f2-f4. If he plays either Bg5 or Bc4 Black should
+NOT play e7-e5.THE CLASSICAL VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. d2-d4 c5xd44. Nf3xd4 Ng8-f65. Nb1-c3 Nb8-c6
+5... e7-e6 is also possible, heading straight for the
+Scheveningen formation.
+White has a similar choice of moves. Note that Black can
+equally well play Nb8-c6 or e7-e6 on move 2 if he wantsto play the Scheveningen system. Each move order gives
+White different options.THE ANTI-SICILIANS
+THE MORRA GAMBIT1. e2-e4 c7-c5
+2. d2-d4 c5xd43. c2-c3 d4xc3
+4. Nb1xc3
+If you like gambit play this could be for you.
+White sacrifices a pawn to gain a lead indevelopment
+.
+THE CLOSED SICILIAN
+1. e2-e4 c7-c5
+2. Nb1-c3 Nb8-c63. g2-g3
+White will continue with Bf1-g2, d2-d3 and
+f2-f4. If you like building up a King sideattack from a closed position this is a goodchoice. 2. f2-f4 can lead to similarpositions.THE ALAPIN VARIATION
+1. e2-e4 c7-c5
+2. c2-c3
+White aims to build up a strong centre with
+d2-d4. Black can reply 2... Ng8-f6 3. e4-e5Nf6-d5 4. d2-d4, or 2... d7-d5 3. e4xd5Qd8xd5 4. d2-d4, or 2... e7-e6 3. d2-d4 d7-d5 when 4. e4-e5 is a French. If you likeopen piece play this variation is a goodchoice.
+THE Bb5 VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. Bf1-b5+
+2... Nb8-c6 3. Bf1-b5 is also good. White
+will usually play 0-0, Rf1-e1, c2-c3 and d2-d4, like a Ruy Lopez. If you like the RuyLopez why not try this line?SICILIAN DEFENCE
+DRAGON VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d6
+3. d2-d4 c5xd4
+4. Nf3xd4 Ng8-f65. Nb1-c3 g7-g6SICILIAN DEFENCE
+MAROCZY BIND
+1. e2-e4 c7-c5
+2. Ng1-f3 e7-e6
+3. d2-d4 c5xd4
+4. Nf3xd4 a7-a65. c2-c4 Ng8-f6SICILIAN DEFENCE
+MOSCOW VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d6
+3. Bf1-b5+ Bc8-d7
+4. Bb5xd7+ Qd8xd75. 0-0 Nb8-c6
+SICILIAN DEFENCE
+NAJDORF VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. d2-d4 c5xd44. Nf3xd4 Ng8-f6
+5. Nb1-c3 a7-a6SICILIAN DEFENCE
+ACCELERATED DRAGON
+1. e2-e4 c7-c5
+2. Ng1-f3 Nb8-c63. d2-d4 c5xd44. Nf3xd4 g7-g6
+5. c2-c4 Bf8-g7SICILIAN DEFENCE
+ALAPIN VARIATION (1)
+1. e2-e4 c7-c5
+2. c2-c3 Ng8-f63. e4-e5 Nf6-d54. d2-d4 c5xd4
+5. Ng1-f3 Nb8-c6
+SICILIAN DEFENCE
+RICHTER-RAUZER ATTACK
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d6
+3. d2-d4 c5xd4
+4. Nf3xd4 Ng8-f65. Nb1-c3 Nb8-c6
+6. Bc1-g5SICILIAN DEFENCE
+SVESHNIKOV VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 Nb8-c6
+3. d2-d4 c5xd4
+4. Nf3xd4 Ng8-f65. Nb1-c3 e7-e5SICILIAN DEFENCE
+ALAPIN VARIATION (2)
+1. e2-e4 c7-c5
+2. c2-c3 d7-d5
+3. e4xd5 Qd8xd5
+4. d2-d4 e7-e65. Ng1-f3 Ng8-f6
+SICILIAN DEFENCE
+SOZIN-VELIMIROVIC ATTACK
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. d2-d4 c5xd4
+4. Nf3xd4 Ng8-f6
+5. Nb1-c3 Nb8-c66. Bf1-c4SICILIAN DEFENCE
+MORRA GAMBIT
+1. e2-e4 c7-c5
+2. d2-d4 c5xd43. c2-c3 d4xc3
+4. Nb1xc3 Nb8-c6
+5. Ng1-f3 d7-d6SICILIAN DEFENCE
+CLOSED VARIATION
+1. e2-e4 c7-c5
+2. Nb1-c3 Nb8-c63. g2-g3 g7-g6
+4. Bf1-g2 Bf8-g7
+5. d2-d3 d7-d6
+SICILIAN DEFENCE
+SCHEVENINGEN VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 e7-e63. d2-d4 c5xd44. Nf3xd4 Ng8-f6
+5. Nb1-c3 d7-d6SICILIAN DEFENCE
+QUEEN CAPTURE VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 d7-d63. d2-d4 c5xd44. Qd1xd4 Nb8-c6
+5. Bf1-b5 Bc8-d7SICILIAN DEFENCE
+GRAND PRIX ATTACK (1)
+1. e2-e4 c7-c5
+2. f2-f4 Nb8-c63. Nb1-c3 d7-d64. Ng1-f3 g7-g6
+5. Bf1-c4 Bf8-g7
+SICILIAN DEFENCE
+TAIMANOV VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 e7-e6
+3. d2-d4 c5xd4
+4. Nf3xd4 Nb8-c65. Nb1-c3 a7-a6SICILIAN DEFENCE
+ROSSOLIMO VARIATION
+1. e2-e4 c7-c5
+2. Ng1-f3 Nb8-c6
+3. Bf1-b5 g7-g6
+4. 0-0 Bf8-g75. c2-c3 Ng8-f6SICILIAN DEFENCE
+GRAND PRIX ATTACK (2)
+1. e2-e4 c7-c5
+2. f2-f4 e7-e6
+3. Ng1-f3 d7-d5
+4. e4xd5 e6xd55. Bf1-b5+ Bc8-dOTHER SEMI-OPEN GAMES
+They start:
+1. e2-e4
+WHITE SAYS:
+These openings are not so popular because they're
+not so good. Whichever one you play I know how to
+gain an advantage.
+BLACK SAYS:
+My opening's just as good as anything else. Becauseit's not so popular I have less to learn and you
+probably won't know very much about it.THE CARO-KANN DEFENCE
+1. e2-e4 c7-c6
+2. d2-d4If White has the chance to stick both pawnsin the middle of the board he should do so.Only a wimp would do anything else.
+2... d7-d5
+A very solid opening, favoured by former
+World Champion Anatoly Karpov. If you'relooking for a defence which is safe and easyto learn, but not very exciting this could befor you. As in the French Defence, Blackattacks the white e-pawn with his d-pawn.As in the French Defence, White has threechoices: advance, exchange or defend.3. e4-e5 is the ADVANCE VARIATION. Black
+usually replies with 3... Bc8-f5 beforeplaying moves like e7-e6 and c6-c5.
+After 3. e4xd5 c6xd5, White can develop
+simply with Ng1-f3 or Bf1-d3, but more
+interesting is 4. c2-c4, the PANOV-
+BOTVINNIK ATTACK.
+White's most popular 3rd move is Nb1-c3
+when Black continues 3... d5xe4 4. Nc3xe4.Now Black has three choices: the traditional4... Bc8-f5, the modern 4... Nb8-d7(Karpov's choice) or the provocative Ng8-f6, giving White the opportunity to doubleBlack's pawns.THE SCANDINAVIAN DEFENCE
+1. e2-e4 d7-d5
+Also known as the CENTRE COUNTER
+DEFENCE. This opening is becomingincreasingly popular in club chess atpresent. This time Black attacks the White
+e-pawn at once.
+2. exd5
+There's no reason for White to play
+anything else.Now Black has two choices: Qd8xd5 and
+Ng8-f6. After 2... Qd8xd5, White usuallyreplies Nb1-c3, gaining time. Black nowplays Qd5-a5, following up with Ng8-f6,Bc8-g4 or Bc8-f5, and c7-c6, so that theQueen has a safe retreat.
+Slightly more popular is 2... Ng8-f6,
+offering a gambit. After 3. c2-c4 c7-c6 (e7-e6, the ICELANDIC GAMBIT, is alsointeresting), it is too dangerous for White totake the pawn. Instead he should play 4.d2-d4 c6xd5, reaching the PANOV-BOTVINNIK ATTACK in the CARO-KANNDEFENCE. On move 3 White usually prefersto let Black capture on d5 and then attackthe Knight. 3. d2-d4 (when 3... Bc8-g4 isthe trendy reply) and 3. Ng1-f3 are bothsensible moves.THE PIRC DEFENCE
+1. e2-e4 d7-d6<
+2. d2-d4 Ng8-f6
+Black plans to FIANCHETTO his King's
+Bishop. His next moves will be g7-g6 andBf8-g7. The plan is to attack White's centre
+with either c7-c5 or e7-e5, and perhaps
+also advance his Queen-side Pawns. Butfirst White must defend his e-pawn, usuallywith Nb1-c3.
+White has a wide choice of set-ups here.
+The two most popular are the CLASSICALVARIATION: White plays Ng1-f3, Bf1-e2, 0-0 and Bc1-e3, and the AUSTRIAN ATTACK:White plays f2-f4 and Ng1-f3, playing for anattack in the centre with e4-e5.A closely related opening is the MODERN
+DEFENCE:
+1. e2-e4 g7-g6
+2. d2-d4 Bf8-g7
+Here, both sides have even more choices
+than in the PIRC DEFENCE. It can easilytranspose into a PIRC DEFENCE or a KING'SINDIAN DEFENCE. If you play the King'sIndian Defence against d2-d4 it's a goodidea to play one of these openings againste2-e4.ALEKHINE'S DEFENCE
+1. e2-e4 Ng8-f6
+xabcdefghy
+One of Black's most provocative defences.
+Black dares White to set up a big pawncentre while chasing his Knight round theboard. White could play Nb1-c3 but usually
+chooses 2. e4-e5 Nf6-d5 3. d2-d4 d7-d6.
+Now White can play ambitiously with 4. c2-c4 Nd5-b6 5. f2-f4 or play 4. Ng1-f3,contenting himself with a more modestcentre. If you want to play somethingunusual and don't mind taking a few risksthis could be the defence for you.NIMZOWITSCH DEFENCE
+1. e2-e4 Nb8-c6
+After 2. d2-d4 Black plays d7-d5 (e7-e5 is a
+different idea, when White can take on e5and attack the Knight) and as usual Whitehas the choice of advancing (3. e4-e5, bestmet, as in the CARO-KANN with 3... Bc8-f5), exchanging (3. e4xd5 Qd8xd5, a sort ofSCANDINAVIAN where White has to defende4) or defending (3. Nb1-c3 d5xe4, whenhis d-pawn is threatened so he should play4. d4-d5, not an easy move for Black tomeet).THE ST GEORGE  DEFENCE
+1. e2-e4 a7-a6
+2. d2-d4 b7-b5
+Once used by English GM Tony Miles to beat
+Karpov. Not quite as bad as it looks: Blackwill follow up with Bc8-b7 (to attack the e-pawn, which White cannot defend with Nb1-c3 because of b5-b4), e7-e6 and c7-c5.
+OWEN'S DEFENCE
+1. e2-e4 b7-b6
+2. d2-d4 Bc8-b7
+A similar idea to the St George's Defence.
+Black may follow up with e7-e6 and d7-d5
+with a sort of FRENCH DEFENCE, but Whitehas an easy development.CARO-KANN DEFENCE
+ADVANCE VARIATION
+1. e2-e4 c7-c6
+2. d2-d4 d7-d53. e4-e5 Bc8-f5
+4. Ng1-f3 e7-e6
+5. Bf1-e2 c6-c5PIRC DEFENCE
+CLASSICAL VARIATION
+1. e2-e4 d7-d6
+2. d2-d4 Ng8-f63. Nb1-c3 g7-g6
+4. Ng1-f3 Bf8-g7
+5. Bf1-e2 0-0ALEKHINE'S DEFENCE
+FOUR PAWNS ATTACK
+1. e2-e4 Ng8-f6
+2. e4-e5 Nf6-d53. c2-c4 Nd5-b6
+4. d2-d4 d7-d6
+5. f2-f4 d6xe56. f4xe5 Nb8-c6
+CARO-KANN DEFENCE
+EXCHANGE VARIATION
+1. e2-e4 c7-c6
+2. d2-d4 d7-d53. e4xd5 c6xd5
+4. Bf1-d3 Nb8-c6
+5. c2-c3 Ng8-f6PIRC DEFENCE
+AUSTRIAN ATTACK
+1. e2-e4 d7-d6
+2. d2-d4 Ng8-f63. Nb1-c3 g7-g6
+4. f2-f4 Bf8-g7
+5. Ng1-f3 0-06. Bf1-d3 Nb8-c6ALEKHINE'S DEFENCE
+MODERN VARIATION
+1. e2-e4 Ng8-f6
+2. e4-e5 Nf6-d53. d2-d4 d7-d6
+4. Ng1-f3 Bc8-g4
+5. Bf1-e2 e7-e66. 0-0 Bf8-e7
+CARO-KANN DEFENCE
+PANOV-BOTVINNIK ATTACK
+1. e2-e4 c7-c6
+2. d2-d4 d7-d5
+3. e4xd5 c6xd54. c2-c4 Ng8-f6
+5. Nb2-c3 e7-e6PIRC DEFENCE
+f3+Be3 VARIATION
+1. e2-e4 d7-d6
+2. d2-d4 Ng8-f6
+3. Nb1-c3 g7-g64. f2-f3 Bf8-g7
+5. Bc1-e3 c7-c6
+6. Qd1-d2 b7-b5SCANDINAVIAN DEFENCE
+2... Qxd5 VARIATION
+1. e2-e4 d7-d5
+2. e4xd5 Qd8xd5
+3. Nb1-c3 Qd8-a54. d2-d4 Ng8-f6
+5. Ng1-f3 Bc8-g4
+CARO-KANN DEFENCE
+Bf5 VARIATION
+1. e2-e4 c7-c6
+2. d2-d4 d7-d5
+3. Nb1-c3 d5xe4
+4. Nc3xe4 Bc8-f55. Ne4-g3 Bf5-g6
+6. Ng1-f3 Nb8-d7MODERN DEFENCE
+c4 v Nc6 VARIATION
+1. e2-e4 g7-g6
+2. d2-d4 Bf8-g7
+3. c2-c4 d7-d6
+4. Nb1-c3 Nb8-c65. Bc1-e3 e7-e5
+6. d4-d5 Nc6-e7SCANDINAVIAN DEFENCE
+2... Nf6 VARIATION
+1. e2-e4 d7-d5
+2. e4xd5 Ng8-f6
+3. d2-d4 Nf6xd5
+4. c2-c4 Nd5-b65. Ng1-f3 g7-g6
+CARO-KANN DEFENCE
+Nd7 VARIATION
+1. e2-e4 c7-c6
+2. d2-d4 d7-d5
+3. Nb1-c3 d5xe4
+4. Nc3xe4 Nb8-d75. Bf1-c4 Ng8-f66. Ne4-g5 e7-e6MODERN DEFENCE
+f4 v c6 VARIATION
+1. e2-e4 g7-g6
+2. d2-d4 Bf8-g7
+3. Nb1-c3 d7-d6
+4. f2-f4 c7-c65. Ng1-f3 Bc8-g46. Bc1-e3 Qd8-b6NIMZOWITSCH DEFENCE
+ADVANCE VARIATION
+1. e2-e4 Nb8-c6
+2. d2-d4 d7-d5
+3. e4-e5 Bc8-f5
+4. Ng1-e2 e7-e65. Ne2-g3 Bf5-g6
+CARO-KANN DEFENCE
+Nf6 VARIATION
+1. e2-e4 c7-c6
+2. d2-d4 d7-d53. Nb1-c3 d5xe4
+4. Nc3xe4 Ng8-f6
+5. Ne4xf6 g7xf6MODERN DEFENCE
+GURGENIDZE SYSTEM
+1. e2-e4 g7-g6
+2. d2-d4 Bf8-g73. Nb1-c3 c7-c6
+4. f2-f4 d7-d5
+5. e4-e5 h7-h5NIMZOWITSCH DEFENCE
+Nc3 VARIATION
+1. e2-e4 Nb8-c6
+2. d2-d4 d7-d53. Nb1-c3 d5xe4
+4. d4-d5 Nc6-e5
+5. Bc1-f4 Ne5-g66. Bf4-g3 f7-f5THE QUEEN'S GAMBIT
+It starts:
+1. d2-d4 d7-d52. c2-c4
+WHITE SAYS:
+I'm going to attack in the centre and on the Queen
+side. I'm trying to get rid of your centre pawn and
+open the c-file for my major pieces. If you're not
+careful I might switch to the King-side as well.
+BLACK SAYS:
+I'm going to hold onto the centre with my pawns and
+equalise by playing either c5 or e5 at the right time.
+If you attack me on the Queen side I'll attack you on
+the King side.
+What should Black do next?
+White is threatening to take on d5. If Black
+takes with the Queen White will gain timewith Nb1-c3. Black has three good moves:
+he can DECLINE the gambit with 2... e7-e6,
+the ORTHODOX DEFENCE or c7-c6, theSLAV DEFENCE, or he can play the QUEEN'SGAMBIT ACCEPTED: 2... d5xc4. Don't play2... Ng8-f6. This is a poor move. Whiteplays 2. c4xd5 and whichever way Blackrecaptures his piece will be open to attackby e2-e4.What's the big idea?
+First, note the difference between e-pawn
+and d-pawn openings. In most openingsstarting 1. e2-e4 e7-e5 White tries to playd2-d4. This is usually quite easy to arrangebecause he has a Queen to support his d-
+pawn. But after 1. d2-d4 d7-d5 it takes a
+lot longer to arrange e2-e4 so White prefersto fight for the centre with his c-pawninstead.
+Black has to watch out for two things:
+firstly that he keeps control of the centrewith his pawns (especially in the Queen'sGambit Accepted) and secondly that hedoes not become too cramped. He mustplay to free his game with either c7-c5 ore7-e5 as soon as he can.Ideas for White:
+1. Use the c-file for your major pieces.
+2. The best square for your King's Bishop is usually d3.
+3. If Black develops his Queen's Bishop early on it's usually
+good to play Qd1-b3.
+4. Don't play c4-c5 unless your opponent has already played
+a7-a6. It takes the pressure off his centre and offers his
+pawn breaks with b7-b6 and e6-e5.
+5. Try to make it as hard as possible for Black to free his game
+with either c7-c5 or e7-e5.
+6. If you have an isolated Queen's Pawn or hanging pawnsstay in the middle game: if your opponent has them head for
+the ending. You need to understand these pawn formations.
+Ideas for Black:
+1. Don't develop your Queen's Knight on c6 in front of
+the c-pawn.
+2. If you accept the Queen's Gambit don't try to keep the
+extra pawn. Hit back in the centre with c7-c5 or e7-e5
+as soon as you possibly can.
+3. Try to avoid being left with a bad Queen's Bishop,
+blocked in by its own pawns.
+4. Don't put your Queen on c7. White will put a Rook on
+c1 giving him tactical chances.
+5. If your opponent attacks on the Queen side try to
+attack on the King side. Look for moves like Nf6-e4and f7-f5.
+6. It's often dangerous to develop your Queen's Bishop
+early on: White can reply with Qd1-b3 attacking d5
+and b7.
+White has an Isolated Queen's Pawn.
+White's plans:
+1. Avoid exchanges.2. Play for a K-side attack (one ideais Bg5, Qd3, Bc2 to threaten Bxf6 and
+Qxh7#).
+3. Look for a breakthrough with d5.
+Black's plans:
+1. Keep control of d5.
+2. Exchange pieces wheneverpossible.3. Head for an ending, ideally withKnight against dark-squared Bishop.
+White has Hanging Pawns.
+White's plans:
+1. Avoid exchanges.
+2. Don't play c5: it gives B an outposton d5.
+3. Use your spatial advantage to
+attack.
+Black's plans:
+1. Try to force exchanges.
+2. Attack the Hanging Pawns and try
+to force them to advance.3. Look for the chance to play b5.
+ THE EXCHANGE VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f64. c4xd5 e6xd55. Bc1-g5 Bf8-e7
+6. e2-e3 c7-c6
+
+White follows up with Bf1-d3 and Qd1-c2 when he has two
+good plans: Ng1-f3, 0-0, Ra1-b1, b2-b4 and b4-b5 (aMINORITY ATTACK, leaving Black with a backward c-pawn
+or an isolated d-pawn) or Ng1-e2, 0-0, f2-f3 playing for a
+central advance with e3-e4.THE CAMBRIDGE SPRINGS VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e6
+3. Nb1-c3 Ng8-f64. Bc1-g5 Nb8-d7
+Setting a trap: if 5. c4xd5 e6xd5 6. Nc3xd5, Black wins a
+piece with 6... Nf6xd5! 7. Bg5xd8 Bf8-b4+ 8. Qd1-d2
+Bb4xd2+.
+5. e2-e3 c7-c6
+6. Ng1-f3 Qd8-a5
+
+Black will follow up with Nf6-e4 and Bf8-b4 when White
+can easily lose a piece if he's not careful.SOME OTHER IDEAS:
+The ORTHODOX DEFENCE
+1. d2-d4 d7-d5 2. c2-c4 e7-e6 3. Nb1-c3 Ng8-f6 4. Bc1-g5
+Bf8-e7. White's 4th move threatens 5. Bg5xf6 when ifBlack takes with the Queen he loses his d-pawn and if hetakes with the pawn his King side pawn structure is ruined.
+5. e2-e3 0-0 6. Ng1-f3
+and Black can play either 6... Nb8-d7 or 6... h7-h6 7. Bg5-
+h4 Nf6-e4 or 7... b7-b6.
+The TARRASCH DEFENCE
+1. d2-d4 d7-d5 2. c2-c4 e7-e6 3. Nb1-c3 c7-c5. Blackstrives for free play for his pieces, at the cost of an
+isolated d-pawn after 4. c4xd5 e6xd5 (Nf6xd5 is the SEMI-TARRASCH DEFENCE) and White will play d4xc5 after
+Black moves his Bishop.The SLAV DEFENCE
+1. d2-d4 d7-d5 2. c2-c4 c7-c6.
+This move has two points: after d5xc4 Black is threatening
+b7-b5 to try to hold the extra pawn, and if White plays
+Bc1-g5 the Knight will not be pinned and Nf6-e4 will bepossible. Play might continue 3. Ng1-f3 (3. c4xd5 is safebut boring) 3... Ng8-f6 4. Nb1-c3 d5xc4 5. a2-a4 to
+prevent b7-b5, followed by e2-e3 and Bf1xc4.
+The QUEEN'S GAMBIT ACCEPTED
+1. d2-d4 d7-d5 2. c2-c4 d7xc5. White has several good
+moves: 3. Ng1-f3 (followed by e2-e3 and Bf1xc4) and 3.e2-e4 are both popular, or he can set a trap with 3. e2-e3
+and if 3... b7-b5 4. a2-a4 c7-c6 5. a4xb5 c6xb5 6. Qd1-f3
+wins a piece.The SEMI-SLAV DEFENCE
+Very popular in Grandmaster chess at present. Black plays
+both e7-e6 and c7-c6. For instance: 1. d2-d4 d7-d5 2. c2-
+c4 c7-c6 3. Ng1-f3 Ng8-f6 4. Nb1-c3 e7-e6 5. Bc1-g5 (5.e2-e3, the MERAN VARIATION, is also popular) 5... d5xc4
+6. e2-e4 b7-b5 7. e4-e5 h7-h6 with wild complications.
+
+QUEEN'S GAMBIT DECLINED
+ORTHODOX DEFENCE
+1. d2-d4 d7-d5
+2. c2-c4 e7-e6
+3. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-e75. e2-e3 0-06. Ng1-f3 Nb8-d7QUEEN'S GAMBIT DECLINED
+VIENNA VARIATION
+2. c2-c4 e7-e6
+3. Nb1-c3 Ng8-f6
+4. Ng1-f3 Bf8-b4
+5. Bc1-g5 d5xc46. e2-e4 c7-c5QUEEN'S GAMBIT DECLINED
+SLAV DEFENCE
+CZECH VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 c7-c6
+3. Ng1-f3 Ng8-f64. Nb1-c3 d5xc45. a2-a4 Bc8-f5
+QUEEN'S GAMBIT DECLINED
+LASKER VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-e7
+5. e2-e3 0-06. Ng1-f3 h7-h6
+7. Bg5-h4 Nf6-e4QUEEN'S GAMBIT DECLINED
+SEMI-TARRASCH DEFENCE
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f6
+4. Ng1-f3 c7-c5
+5. c4xd5 Nf6xd5QUEEN'S GAMBIT DECLINED
+SLAV DEFENCE
+EXCHANGE VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 c7-c6
+3. Ng1-f3 Ng8-f6
+4. c4xd5 c6xd55. Nb1-c3 Nb8-c6
+QUEEN'S GAMBIT DECLINED
+TARTAKOWER VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-e7
+5. e2-e3 0-06. Ng1-f3 h7-h6
+7. Bg5-h4 b7-b6QUEEN'S GAMBIT DECLINED
+EXCHANGE VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f6
+4. c4xd5 e6xd5
+5. Bc1-g5 Bf8-e76. e2-e3 c7-c6QUEEN'S GAMBIT ACCEPTED
+MAIN LINE
+1. d2-d4 d7-d5
+2. c2-c4 d5xc43. Ng1-f3 Ng8-f6
+4. e2-e3 e7-e6
+5. Bf1xc4 c7-c56. 0-0 a7-a6
+QUEEN'S GAMBIT DECLINED
+BISHOP EXCHANGE LINE
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f6
+4. Bc1-g5 Bf8-e7
+5. e2-e3 0-06. Ng1-f3 h7-h6
+7. Bg5xf6 Be7xf6QUEEN'S GAMBIT DECLINED
+TARRASCH DEFENCE
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 c7-c5
+4. c4xd5 e6xd5
+5. Ng1-f3 Nb8-c66. g2-g3 Ng8-f6QUEEN'S GAMBIT ACCEPTED
+e4 VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 d5xc43. e2-e4 e7-e5
+4. Ng1-f3 Bf8-b4+
+5. Bc1-d2 Bb4xd2+
+QUEEN'S GAMBIT DECLINED
+Bf4 VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e6
+3. Nb1-c3 Ng8-f6
+4. Ng1-f3 Bf8-e75. Bc1-f4 0-0QUEEN'S GAMBIT DECLINED
+SEMI-SLAV DEFENCE
+MERAN VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 c7-c6
+3. Ng1-f3 Ng8-f64. Nb1-c3 e7-e65. e2-e3 Nb8-d7
+6. Bf1-d3 d5xc4
+7. Bd3xc4 b7-b5QUEEN'S GAMBIT
+CHIGORIN DEFENCE
+1. d2-d4 d7-d5
+2. c2-c4 Nb8-c6
+3. Ng1-f3 Bc8-g4
+4. c4xd5 Bg4xf35. d5xc6 Bf3xc6
+QUEEN'S GAMBIT DECLINED
+CAMBRIDGE SPRINGS
+DEFENCE
+1. d2-d4 d7-d5
+2. c2-c4 e7-e63. Nb1-c3 Ng8-f64. Bc1-g5 Nb8-d7
+5. e2-e3 c7-c6
+6. Ng1-f3 Qd8-a5QUEEN'S GAMBIT DECLINED
+SEMI-SLAV DEFENCE
+BOTVINNIK VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 c7-c63. Ng1-f3 Ng8-f64. Nb1-c3 e7-e6
+5. Bc1-g5 d5xc4
+6. e2-e4 b7-b5QUEEN'S GAMBIT
+ALBIN COUNTER-GAMBIT
+1. d2-d4 d7-d5
+2. c2-c4 e7-e5
+3. d4xe5 d5-d44. Ng1-f3 Nb8-c65. g2-g3 Bc8-e6THE NIMZO-INDIAN DEFENCE
+It starts:
+1. d2-d4 Ng8-f62. c2-c4 e7-e63. Nb1-c3 Bf8-b4
+
+WHITE SAYS:
+If you want to put your Bishop there it's fine by me. You'll probably have to
+exchange it off when I'll have the advantage of the two bishops. I'll play tocontrol e4 and open up the position for my bishops. Who knows, I might
+even have the chance of a King-side attack.
+BLACK SAYS:
+I'm quite happy to exchange off my Bishop for your Knight to keep controlof e4. I'd like to double your pawns at the same time, giving me a
+positional advantage. I might keep the position closed so that my knightsare better than your bishops, or I might open the position to attack yourweak pawns. If you avoid doubled c-pawns I'll have a lead in developmentand perhaps catch your King in the centre.In this lesson we look at three openings
+starting 1. d2-d4 Ng8-f6 2. c2-c4 e7-e6. Inthese openings the immediate battle is forthe e4 square. White's most direct thirdmove is Nb1-c3, with the threat of e2-e4,dominating the centre. Now Black cancontest the e4 square by playing Bf8-b4,PINNING the Knight. This is the NIMZO-INDIAN DEFENCE, named after AronNimzowitsch.
+White can avoid the pin by playing 3. Ng1-
+f3 instead. Here we look at two moves forBlack. He can still play 3... Bf8-b4+, theBOGO-INDIAN DEFENCE, named after EfimBogoljubov. Or he can fianchetto hisQueen's Bishop - 3… b7-b6 - which is theQUEEN'S INDIAN DEFENCE.Returning to the Nimzo-Indian Defence:
+What should White do next?
+He has a wide choice of moves here. Most
+players, meeting this opening for the firsttime, choose 4. Bc1-d2. This isn't a strongmove - the Bishop is passively placed here.You don't need to be afraid of the pin in thisposition. More dangerous are: 4. Bc1-g5(the Leningrad Variation, when play often
+continues 4… c7-c5 5. d4-d5 h7-h6, 4. a2-
+a3 (the Saemisch Variation, White isprepared to waste a move forcing Black toexchange on c3), 4. f2-f3 (the ShirovVariation - White plays for a quick e2-e4 atthe expense of development), 4. Qd1-b3(the Spielmann Variation, attacking the
+Bishop and avoiding doubled pawns), 4. g2-g3 (the Romanishin Variation, similar to theCatalan Opening, White goes for a quietKing-side development) and 4. Ng1-f3(when Black can play b7-b6, a crossbetween a Nimzo and a Queen's Indian).
+But the most popular moves for White are
+4. e2-e3 and 4. Qd1-c2. 4. e2-e3 is theRubinstein Variation - White prepares todevelop his King-side quickly. 4. Qd1-c2 isthe Classical Variation - White controls e4again and plans to avoid doubled pawns bycapturing on c3 with his Queen.Ideas for White:
+1. If you want to avoid doubled pawns you can play Qd1-
+c2 or Ng1-e2.
+2. If Black exchanges on c3 and you recapture with the
+b-pawn, aim to open up the position and attack on the
+King-side. A useful idea for White is Ng2-e2, f2-f3
+followed by e3-e4.
+3. Don't develop your Queen's Bishop on d2 - it's not a
+good square in this opening.
+4. If you play Qd2-c2 avoid getting too far behind in
+development. White's long-term chances are good butit's possible to lose quickly.
+5. If Black plays d7-d5 and c7-c5 positions often
+resemble the Queen's Gambit. Make sure you knowthat opening as well.
+Ideas for Black:
+1. In most lines you will use your c-pawn to attack the
+centre - c7-c5. You have the choice between d7-d5
+and d7-d6.
+2. If you play d7-d6 and your opponent has doubled c-
+pawns you can play Qd8-a5, b7-b6, Bc8-a6, Ra8-c8 to
+attack the c4 pawn.
+3. If you double White's c-pawns and he plays e4, play
+Nf6-e8 to meet f2-f4 with f7-f5, blocking his attack.
+4. If White has the two bishops, try to keep the position
+fairly closed.
+5. If you play d7-d5 and c7-c5 the pawn formation is like
+the Queen's Gambit - either player may have an IQP
+or Hanging Pawns - so learn that opening as well.THE RUBINSTEIN VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e63. Nb1-c3 Bf8-b44. e2-e3
+Black has a choice of four moves here: b7-
+b6 (to play Bc8-b7 to control e4 again), c7-c5 (with the idea of taking on c3 andplaying d7-d6), d7-d5 (like a Queen'sGambit) or 0-0 (the main line). White willusually develop his King's Bishop on d3 andhis King's Knight either on f3 or e2 (tocapture on c3 with a Knight and perhapsplay f2-f3 and e3-e4).THE CLASSICAL VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e63. Nb1-c3 Bf8-b44. Qd1-c2
+Here, Black has three main choices. The
+most popular move is 0-0, when playusually continues 5. a2-a3 Bb4xc3+ 6.Qc2xc3. Black can also play d7-d5, againusually met by either c4xd5 or a2-a3, orc7-c5, when White usually plays d4xc5.THE BOGO-INDIAN DEFENCE
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e63. Ng1-f3 Bf8-b4+
+White has two moves here: Bc1-d2 and
+Nb1-d2 (Nb1-c3 would be a Nimzo-Indian
+Defence). After Bc1-d2, Black can exchangeBishops, but more often defends with one ofQd8-e7, c7-c5 or a7-a5. The idea of Nb1-d2is to follow up with a2-a3, to win Bishop forKnight.THE QUEEN'S INDIAN DEFENCE
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e63. Ng1-f3 b7-b6
+Black plans to fianchetto his Queen's Bishop
+to continue the battle for the e4 square.White's most popular reply is g2-g3, tooppose Bishops on the long diagonal. Blackcan then simply play Bc8-b7 or try Bc8-a6to attack the pawn on c4. White can also trythe strange looking move a2-a3, thePetrosian System. The idea of this move isthat White would like to block off the Bishopwith d4-d5, but first prevents the nasty pinBf8-b4. So play usually continues 4… Bc8-b7 5. Nb1-c3 d7-d5 with a position ratherlike a Queen's Gambit. White can also try
+simple development with 4. e2-e3 followedby Bf1-d3 and 0-0, or play Nb1-c3 followedby Bc1-g5, a line half way between aQueen's Indian and a Nimzo-Indian.
+A note on other third moves after 1. d2-d4
+Ng8-f6 2. c2-c4 e7-e6 3. Nb1-c3 or Ng1-f3.Black can of course play d7-d5, with aQUEEN'S GAMBIT, or c7-c5, when Whiteusually plays d4-d5 with a BENONI (see theKing's Indian Defence book). Oneindependent opening is 3. Ng1-f3 c7-c5 4.d4-d5 b7-b5, the BLUMENFELD GAMBIT, acousin of the Benko Gambit.NIMZO-INDIAN DEFENCE
+RUBINSTEIN VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b44. e2-e3 0-0
+5. Bf1-d3 d7-d5
+6. Ng1-f3 c7-c5NIMZO-INDIAN DEFENCE
+SAEMISCH VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b44. a2-a3 Bb4xc3+
+5. b2xc3 c7-c5
+6. e2-e3 Nb8-c6QUEEN'S INDIAN DEFENCE
+CLASSICAL VARIATION 2
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 b7-b64. g2-g3 Bc8-a6
+5. b2-b3 Bf8-b4+
+6. Bc1-d2 Bb4-e7
+NIMZO-INDIAN DEFENCE
+HUEBNER VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. e2-e3 c7-c55. Bf1-d3 Nb8-c6
+6. Ng1-f3 Bb4xc3+
+7. b2xc3 d7-d6NIMZO-INDIAN DEFENCE
+SHIROV VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. f2-f3 d7-d55. a2-a3 Bb4xc3+
+6. b2xc3 c7-c5QUEEN'S INDIAN DEFENCE
+PETROSIAN VARIATION 1
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 b7-b6
+4. a2-a3 Bc8-b75. Nb1-c3 d7-d5
+6. c4xd5 e6xd5
+NIMZO-INDIAN DEFENCE
+NIMZOWITSCH VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. e2-e3 b7-b65. Bf1-d3 Bc8-b7
+6. Ng1-f3 Nf6-e4NIMZO-INDIAN DEFENCE
+ROMANISHIN VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. g2-g3 c7-c55. Ng1-f3 Nb8-c6
+6. Bf1-g2 Nf6-e4QUEEN'S INDIAN DEFENCE
+PETROSIAN VARIATION 2
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 b7-b6
+4. a2-a3 Bc8-b75. Nb1-c3 d7-d5
+6. c4xd5 Nf6xd5
+NIMZO-INDIAN DEFENCE
+CLASSICAL VARIATION 1
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. Qd1-c2 0-05. a2-a3 Bb4xc3+6. Qc2xc3 b7-b6NIMZO-INDIAN DEFENCE
+LENINGRAD VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. Bc1-g5 c7-c55. d4-d5 h7-h66. Bg5-h4 d7-d6
+7. e2-e3 Bb4xc3+QUEEN'S INDIAN DEFENCE
+4. e3 VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 b7-b6
+4. e2-e3 Bc8-b75. Bf1-d3 d7-d56. 0-0 Bf8-d6
+NIMZO-INDIAN DEFENCE
+CLASSICAL VARIATION 2
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. Qd1-c2 c7-c55. d4xc5 Nb8-a66. a2-a3 Bb4xc3+
+7. Qc2xc3 Na6xc5NIMZO-INDIAN DEFENCE
+NIMZO-QUEENS HYBRID
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. Ng1-f3 b7-b65. Bc1-g5 Bc8-b76. e2-e3 h7-h6
+7. Bg5-h4 g7-g5BOGO-INDIAN DEFENCE
+4. Bd2 VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 Bf8-b4+
+4. Bc1-d2 Qd8-e75. g2-g3 0-06. Bf1-g2 Bb4xd2+
+ NIMZO-INDIAN DEFENCE
+SPIELMANN VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Nb1-c3 Bf8-b4
+4. Qd1-b3 c7-c55. d4xc5 Nb8-c66. Ng1-f3 Nf6-e4QUEEN'S INDIAN DEFENCE
+CLASSICAL VARIATION 1
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 b7-b6
+4. g2-g3 Bc8-b75. Bf1-g2 Bf8-e76. 0-0 0-0
+7. Nb1-c3 Nf6-e4BOGO-INDIAN DEFENCE
+4. Nbd2 VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e6
+3. Ng1-f3 Bf8-b4+
+4. Nb1-d2 b7-b65. a2-a3 Bb4xd2+6. Bc1xd2 Bc8-b7THE KING'S INDIAN DEFENCE
+It starts:
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g63. Nb1-c3 Bf8-g7
+
+WHITE SAYS:
+Fine! If you want to give me more space I'll take it.
+Attack me on either side of the board. See if I care.
+I'll refute your attack and crush you to death. Myspace advantage will be decisive.
+BLACK SAYS:
+Go ahead and make my day. Build up a big pawn
+centre if you choose. The bigger you build it the
+more I'll like it. I'll attack it with e5 or c5 and smash
+it to pieces with the help of my g7 Bishop.
+What happens next?
+White will usually continue with e2-e4,
+accepting Black's challenge to build up apawn centre. Black will play d7-d6, 0-0 andthen either e7-e5 or c7-c5, depending on
+which set-up White chooses.
+Then White will have the choice of
+exchanging (wimpish), pushing with d4-d5or waiting to see if Black will exchangepawns on d4. In most games White playsd4-d5 either at once or soon afterwards.
+
+A typical pawn formation in the
+King's Indian Defence after Black
+has played e7-e5 and White hasreplied d4-d5.
+Black's PAWN BREAK is f7-f5 to
+which White will often reply f2-f3 if
+he has not already played thatmove. One plan for Black is f5-f4and a King-side pawn storm. White
+will play for c4-c5 followed by a
+major piece invasion on the c-fileor an ending where Black has abad dark squares Bishop.
+A typical pawn formation in the
+King's Indian Defence (or Benoni)after Black has played c7-c5 andWhite has replied d4-d5.
+Here Black's PAWN BREAKS are
+e7-e6, playing in the centre, andb7-b5, which can sometimes beplayed as a pawn sacrifice, playingon the Queen side. White's PAWN
+BREAK is e4-e5, which will usually
+be preceded by f2-f4.
+ 
+ 
+Ideas for White:
+1. If you close the centre with d4-d5 go for your PAWN
+BREAK as quickly and efficiently as you can.
+2. If you've played d4-d5 don't close the position on the
+side of the board where you're attacking.
+3. Where Black has played e7-e5 and you've played d4-
+d5 head for an ending where Black has a bad darksquared bishop.
+4. If you have a space advantage try to avoid exchanges.
+5. In some positions you can meet f7-f5 with e4xf5, but
+make sure Black cannot activate his g7 Bishop.
+6. If you're playing Bc1-e3 and Qd1-d2 make sure you
+have a pawn on f3 or h3 to prevent Ng4.
+Ideas for Black:
+1. If White closes the centre with d4-d5 go for your
+PAWN BREAK as quickly and efficiently as you can.
+2. If White has played d4-d5 don't close the position on
+the side of the board where you're attacking.
+3. If White plays e4xf5 it's nearly always right to
+recapture with your g-pawn, not with a piece.
+4. After e4xf5 g6xf5 consider a pawn sacrifice to activate
+your g6 Bishop.
+5. If White plays f2-f3 in reply to f7-f5 throw your g- and
+h-pawns down the board. Be prepared to sac a pieceto break down his defences.
+6. If White plays Bc1-e3 in the opening the best reply, if
+it doesn't lose a piece, is Nf6-g4.
+ 
+  
+ THE CLASSICAL VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g63. Nb1-c3 Bf8-g74. e2-e4 d7-d65. Ng1-f3 0-0
+6. Bf1-e2 e7-e5
+
+White's most popular set-up and an
+important tactical point. If 7. d4xe5 d6xe58. Nf3xe5, Black regains the pawn with agood position after Nf6xe4! (unmasking theg7 Bishop). The main line continues 7. 0-0Nb8-c6 8. d4-d5 Nc6-e7. Other 7th movesare d4-d5 and 7. Bc1-e3. 7. d4xe5 isplayable but boring.
+  THE SAEMISCH VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g63. Nb1-c3 Bf8-g74. e2-e4 d7-d65. f2-f3 0-0
+A strong and solid variation for White. In
+addition to his usual plans he has the ideaof a King-side attack with Bc1-e3, Qd1-d2,0-0-0, h2-h4, g2-g4, h4, Be3-h6 as in theSicilian Dragon. Possible moves for Blackafter the usual 6. Bc1-e3 are the immediate6. e7-e5 and 6. Nb8-c6, followed by a7-a6,perhaps Ra8-b8 and/or Rf8-e8 followed byeither b7-b5 or e7-e5.THE FOUR PAWNS ATTACK
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g63. Nb1-c3 Bf8-g74. e2-e4 d7-d65. f2-f4 0-0
+White's most aggressive formation. After
+the usual 6. Ng1-f3 Black's safest line is 6...c7-c5, and if 7. d4-d5, e7-e6 attackingWhite's big centre immediately. This linecan be very dangerous if Black doesn'tknow how to meet it, but other, slightly lessambitious variations give White morechance of a lasting advantage.
+ 
+ THE FIANCHETTO VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g63. Ng1-f3 Bf8-g74. g2-g3 d7-d65. Bf1-g2 0-0
+A safe line for White, slightly less ambitious
+than the others we've looked at. Whitedevelops his King side quietly without over-committing himself in the centre. After 6. 0-0 Black can play Nb8-d7 to prepare e7-e5,the immediate c7-c5 or Nb8-c6.
+ 
+ 
+ There are several openings in which Black
+plays an early c7-c5, following up with g7-g6 and Bf8-g7 if White, as he usually does,plays d4-d5.
+The most popular of these is the MODERN
+BENONI, which starts 1. d2-d4 Ng8-f6 2.
+c2-c4 c7-c5 3. d4-d5 e7-e6 4. Nb1-c3
+e6xd5 5. c4xd5 d7-d6, followed by g7-g6and Bf8-g7 with play on the long diagonal,the e-file and the Queen side (with thepawn break b7-b5).
+
+A related opening is the BENKO GAMBIT,
+where Black sacrifices a pawn to get hispawn break in at once: 1. d2-d4 Ng8-f6 2.c2-c4 c7-c5 3.d4-d5 b7-b5, and if 4. c4xb5,a7-a6 with open lines on the Queen side forthe major pieces and a strong Bishop on g7.
+ 
+An opening which starts like the King'sIndian Defence but is based on a verydifferent idea is the GRUENFELD DEFENCE.After 1. d2-d4 Ng8-f6 2. c2-c4 g7-g6 3.Nb1-c3 Black plays d7-d5. The main linecontinues 4. c4xd5 Nf6xd5 5. e2-e4 Nd5xc36. b2xc3 Bf8-g7 when White's centre looksvery strong but Black plans to attack it withc7-c5.
+KING'S INDIAN DEFENCE
+CLASSICAL VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 Bf8-g7
+4. e2-e4 d7-d65. Ng1-f3 0-06. Bf1-e2 e7-e5
+7. 0-0 Nb8-c6KING'S INDIAN DEFENCE
+CLASSICAL FIANCHETTO
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Ng1-f3 Bf8-g7
+4. g2-g3 d7-d65. Bf1-g2 0-06. 0-0 Nb8-d7
+7. Nb1-c3 e7-e5GRUENFELD DEFENCE
+Bf4 VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 d7-d5
+4. Ng1-f3 Bf8-g75. Bc1-f4 0-06. e2-e3 c7-c5
+KING'S INDIAN DEFENCE
+PETROSIAN VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 Bf8-g7
+4. e2-e4 d7-d65. Ng1-f3 0-0
+6. Bf1-e2 e7-e5
+7. d4-d5 a7-a5KING'S INDIAN DEFENCE
+YUGOSLAV VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Ng1-f3 Bf8-g7
+4. g2-g3 d7-d65. Bf1-g2 0-0
+6. 0-0 c7-c5
+7. Nb1-c3 Nb8-c6GRUENFELD DEFENCE
+SCHLECHTER-SLAV
+VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. g2-g3 d7-d54. Bf1-g2 Bf8-g7
+5. Ng1-f3 0-0
+6. 0-0 c7-c6
+KING'S INDIAN DEFENCE
+AVERBAKH VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 Bf8-g7
+4. e2-e4 d7-d65. Bf1-e2 0-0
+6. Bc1-g5 c7-c5KING'S INDIAN DEFENCE
+PANNO VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Ng1-f3 Bf8-g7
+4. g2-g3 d7-d65. Bf1-g2 0-0
+6. 0-0 Nb8-c6
+7. Nb1-c3 a7-a6MODERN BENONI DEFENCE
+MAIN LINE
+1. d2-d4 Ng8-f6
+2. c2-c4 c7-c5
+3. d4-d5 e7-e6
+4. Nb1-c3 e6xd55. c4xd5 d7-d6
+6. e2-e4 g7-g6
+7. Ng1-f3 Bf8-g7
+KING'S INDIAN DEFENCE
+FOUR PAWNS ATTACK
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 Bf8-g7
+4. e2-e4 d7-d65. f2-f4 0-0
+6. Ng1-f3 c7-c5GRUENFELD DEFENCE
+CLASSICAL EXCHANGE
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 d7-d5
+4. c4xd5 Nf6xd55. e2-e4 Nd5xc3
+6. b2xc3 Bf8-g7
+7. Bf1-c4 c7-c5MODERN BENONI DEFENCE
+MIKENAS VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 c7-c5
+3. d4-d5 e7-e6
+4. Nb1-c3 e6xd55. c4xd5 d7-d6
+6. e2-e4 g7-g6
+7. f2-f4 Bf8-g7
+KING'S INDIAN DEFENCE
+ORTHODOX SAEMISCH
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 Bf8-g74. e2-e4 d7-d65. f2-f3 0-0
+6. Bc1-e3 e7-e5GRUENFELD DEFENCE
+MODERN EXCHANGE
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 d7-d54. c4xd5 Nf6xd55. e2-e4 Nd5xc3
+6. b2xc3 Bf8-g7
+7. Ng1-f3 0-0MODERN BENONI DEFENCE
+FIANCHETTO VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 c7-c5
+3. d4-d5 e7-e64. Nb1-c3 e6xd55. c4xd5 d7-d6
+6. Ng1-f3 g7-g6
+7. g2-g3 Bf8-g7
+KING'S INDIAN DEFENCE
+SAEMISCH PANNO
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 Bf8-g74. e2-e4 d7-d65. f2-f3 0-0
+6. Bc1-e3 Nb8-c6
+7. Ng1-e2 a7-a6GRUENFELD DEFENCE
+SMYSLOV VARIATION
+1. d2-d4 Ng8-f6
+2. c2-c4 g7-g6
+3. Nb1-c3 d7-d54. Ng1-f3 Bf8-g75. Qd1-b3 d5xc4
+6. Qb3xc4 0-0BENKO GAMBIT
+MAIN LINE
+1. d2-d4 Ng8-f6
+2. c2-c4 c7-c5
+3. d4-d5 b7-b54. c4xb5 a7-a65. b5xa6 Bb8xa6
+6. Nb1-c3 d7-d6
+7. Ng1-f3 g7-g6OTHER QUEEN'S PAWN OPENINGS
+They start:
+1. d2-d4
+
+In this book we look mainly at the Dutch
+Defence and openings where White plays d4
+but not c4.
+WHITE SAYS:
+(If he's playing d4 but not c4): I don't care what your favourite defence is.
+I'll get in my favourite opening first and see what you can do against it. Goahead and make my day.
+BLACK SAYS:
+(If he plays the Dutch Defence): You want the Queen side? Fine. Then I'll
+go ahead and take the King side. Your King had better watch out or he'll
+end up dead meat.
+The Classical Dutch.
+Black's plans are to play e6-e5 or to
+attack on the King side with moves likeQd8-e8, Qe8-h5, g7-g5, g5-g4. Whitewill try to play e2-e4, open the e-file
+and attack Black's weak e-pawn. For
+this reason he will usually develop hisKing's Bishop on g2.
+The Dutch Stonewall.
+Black gains space but leaves a
+weakness on e5. He can either play fora King side attack, again with Qd8-e8,Qe8-h5, g7-g5, or play in the centre
+with b7-b6 and c6-c5. White will aim to
+control or occupy the e5 square with aKnight while trying to break with e2-e4.
+The Leningrad Dutch.
+This time Black finachettos his King's
+Bishop to improve his chances ofplaying e7-e5. Again, White often aimsto play e2-e4 and attack a weak blackpawn on the e-file. Black has to
+remember that his e6 square is weak
+and watch out for Knight attacks viag5.xABCDEFGH
+The Colle System.
+This set-up is most effective when
+Black has a pawn on d5. White sets upa solid position and breaks with e3-e4,hoping to build up a King side attack.
+Watch out for the chance of a Greek
+Gift sacrifice (Bd3xh7+): see the lessonon the French Defence.
+The Torre Attack.
+White places his pawns on dark squares
+after developing his Bishop. White caneither go for e3-e4, as in the ColleSystem, or put a Knight on e5 andlaunch a King-side attack. Unlike the
+other systems on this page it's also OK
+against the King's Indian Defence.
+The same idea as the Dutch Stonewall -
+you can play the same system withboth colours!
+If Black doesn't know what to expect
+White can quickly get a winning attackwith moves like Nf3-e5, g2-g4, g4-g5,
+Qd1-h5, Rf1-f3, Rf3-h3. One word of
+advice, don't play f2-f4 until Black hasplayed d7-d5.Ideas for White:
+1. If you're playing the main lines against the Dutch
+Defence, go for the break e2-e4. Develop your Bishop
+to g2, then maybe Rook on e1 or Queen on c2. Againstthe Stonewall you can sometimes retreat your Knight
+on f3, play f2-f3 and e2-e4.
+2. Move like 2. Nc3 and 2. Bg5 can be annoying for Dutch
+Defence players - why not give them a try.
+3. If you're playing the Colle or the Stonewall, don't be
+too inflexible. If Black does something unexpected you
+may have to change your plan.
+4. If you're playing the Colle, e3-e4 will either exchange
+off or drive back (with e4-e5) the Knight on f6,
+weakening his King's defences and giving you thechance of a king-side attack.
+Ideas for Black:
+1. If you're playing the Dutch Defence try to avoid
+positions where you have a pawn on the e-file that can
+be attacked.
+2. If you're playing the Dutch Stonewall. try to activate
+your Queen's Bishop. One idea is Bc8-d7, Bd7-e8,
+Be8-h5. Another idea is b7-b6, Bc8-b7, c7-c5. Your
+choice will depend on White's moves.
+3. If you think your opponent's going to play the Colle or
+Stonewall with White don't play d7-d5. Instead, play
+for e7-e5 or c7-c5 to take his central position apart.
+4. Against the Torre or Trompowsky, it's often a good
+idea to develop your Queen to b6, attacking the Pawn
+on b2.THE DUTCH DEFENCE
+1. d2-d4 f7-f5
+2. Ng1-f3This, 2. c2-c4 or 2. g2-g3 are usual. 2. c2-c4 gives Black the chance of developing hisBishop on b4. Other interesting moves are
+2. Nb1-c3, preparing e2-e4, 2. Bc1-g5,
+planning to capture a Knight on f6 anddouble Black's pawns, or 2. e2-e4, theStaunton Gambit (2... f5xe4 3. Nb1-c3 Ng8-f6 4. Bc1-g5 or 4. f2-f3).
+2... Ng8-f6
+3. g2-g3 e7-e6If Black wants to play the LeningradVariation he plays g7-g6 here.
+4. Bf1-g2 d7-d5
+4... Bf8-e7, followed by 5... 0-0 and 6... d7-d6 is the Classical Variation
+5. c2-c4 c7-c6
+6. 0-0 Bf8-d6Bf8-e7 is equally possible here.
+This is the basic position for the Dutch
+Stonewall.
+THE COLLE SYSTEM
+1. d2-d4 d7-d5
+2. Ng1-f3Another idea is 2. Nb1-c3 Ng8-f6 3. Bc1-g5,again playing for e2-e4 - the Richter-Veresov Attack.
+2... Ng8-f6
+3. e2-e33. Bc1-g5 is the Torre Attack. 3. Bc1-f4 isthe London System, with similar ideas.3... e7-e6
+3... Nb8-c6 is interesting: 4. Bf1-d3 e7-e5is fine for Black so White should changeplans and play f2-f4 instead. If Black thenplays Nc7-b4 and Nb5xd3 White shouldtake back with the c-pawn, not the Queen.
+4. Bf1-d3 c7-c5
+5. c2-c3 Nb8-d7Nb8-c6, Bf8-e7 or Bf8-d6 are all equallypossible.
+
+A typical position from the Colle System.
+White will play for e2-e4. Perhaps Black willplay for e7-e5.THE TROMPOWSKY ATTACK
+1. d2-d4 Ng8-f6
+2. Bc1-g5
+
+A move made popular by English
+Grandmasters Michael Adams and JulianHodgson. One idea is to take on f6 anddouble Black's pawns. 1. d2-d4 d7-d5 2.Bc1-g5 is also sometimes played.
+Black has several choices: 2... Nf6-e4,
+when White can move his Bishop back to f4or h4:
+2... e7-e6, when White can play Nb1-c3 and
+e2-e4 but will have to exchange Bishop for
+Knight on f6:2... d7-d5, when White can exchange on f6
+or transpose to a Torre Attack:
+2... c7-c6, hoping for 3. e2-e3?? Qd8-a5+
+winning a Bishop.
+Finally, a few other openings that don't fit in
+elsewhere.
+THE BUDAPEST GAMBIT1. d2-d4 Ng8-f6
+2. c2-c4 e7-e5
+Black sacrifices a pawn. After 2. d4xe5
+(best) Black can play the main line, Nf6-g4,when he usually wins the pawn back, orNf6-e4, a genuine gambit, dubious but
+there are many ways White can lose
+quickly.THE OLD INDIAN DEFENCE
+1. d2-d4 Ng8-f6
+2. c2-c4 d7-d63. Nb1-c3 e7-e5
+(after 3. Ng1-f3, Bc8-g4 is possible) Now
+White can either exchange pawns and
+queens, or play d4-d5 which will look like aKing's Indian Defence with Black's bishopon e7, not g7.
+THE CATALAN1. d2-d4 d7-d5
+2. c2-c4 e7-e63. g2-g3 Ng8-f6
+A sort of Queen's Gambit where White
+fianchettos his bishop to put pressure ond5. A very subtle opening, popular inmaster chess but less so at lower levels.
+Black can open the position with d5xc4,
+often followed by c7-c5 or defend solidlywith Bf8-e7, 0-0, c7-c6.DUTCH DEFENCE
+CLASSICAL VARIATION
+1. d2-d4 f7-f5
+2. g2-g3 Ng8-f6
+3. Bf1-g2 e7-e64. Ng1-f3 Bf8-e7
+5. c2-c4 0-0
+6. 0-0 d7-d6DUTCH DEFENCE
+STAUNTON GAMBIT
+1. d2-d4 f7-f5
+2. e2-e4 f5xe4
+3. Nb1-c3 Ng8-f64. Bc1-g5 Nb8-c6
+5. d4-d5 Nc6-e5
+6. Qd1-d4 Ne5-f7TROMPOWSKY ATTACK (2)
+1. d2-d4 Ng8-f6
+2. Bc1-g5 Nf6-e4
+3. Bg5-f4 c7-c5
+4. d4-d5 Qd8-b65. Bf4-c1 e7-e6
+6. f2-f3 Qb6-a5+
+7. c2-c3 Ne4-f6
+DUTCH DEFENCE
+STONEWALL VARIATION
+1. d2-d4 f7-f5
+2. g2-g3 Ng8-f6
+3. Bf1-g2 e7-e6
+4. Ng1-f3 d7-d55. c2-c4 c7-c6
+6. 0-0 Bf8-d6COLLE SYSTEM
+1. d2-d4 d7-d5
+2. Ng1-f3 Ng8-f63. e2-e3 e7-e6
+4. Bf1-d3 c7-c5
+5. c2-c3 Nb8-d76. Nb1-d2 Bf8-d6TROMPOWSKY ATTACK (3)
+1. d2-d4 Ng8-f6
+2. Bc1-g5 e7-e63. e2-e4 h7-h6
+4. Bg5xf6 Qd8xf6
+5. Ng1-f3 b7-b66. Bf1-d3 Bc8-b7
+DUTCH DEFENCE
+LENINGRAD VARIATION
+1. d2-d4 f7-f5
+2. g2-g3 Ng8-f63. Bf1-g2 g7-g6
+4. Ng1-f3 Bf8-g7
+5. c2-c4 0-06. 0-0 d7-d6TORRE ATTACK (1)
+1. d2-d4 d7-d5
+2. Ng1-f3 Ng8-f63. Bc1-g5 e7-e64. e2-e3 c7-c5
+5. Nb1-d2 Bf8-e7
+6. c2-c3 Nb8-d7BUDAPEST GAMBIT
+1. d2-d4 Ng8-f6
+2. c2-c4 e7-e53. d4xe5 Nf6-g44. Bc1-f4 Nb8-c6
+5. Ng1-f3 Bf8-b4+
+6. Nb1-d2 Qd8-e7
+DUTCH DEFENCE
+DUTCH INDIAN VARIATION
+1. d2-d4 f7-f5
+2. c2-c4 Ng8-f63. g2-g3 e7-e6
+4. Bf1-g2 Bf8-b4+
+5. Bc1-d2 Qd8-e76. Ng1-f3 0-0TORRE ATTACK (2)
+1. d2-d4 d7-d5
+2. Ng1-f3 Ng8-f6
+3. Bc1-g5 g7-g64. e2-e3 Bf8-g7
+5. Nb1-d2 0-0
+6. Bf1-d3 c7-c5OLD INDIAN DEFENCE
+1. d2-d4 Ng8-f6
+2. c2-c4 d7-d6
+3. Nb1-c3 Nb8-d74. Ng1-f3 e7-e5
+5. e2-e4 c7-c6
+6. Bf1-e2 Bf8-e77. 0-0 0-0
+DUTCH DEFENCE
+2. Nc3 VARIATION
+1. d2-d4 f7-f5
+2. Nb1-c3 d7-d5
+3. Bc1-g5 Ng8-f64. Bg5xf6 e7xf6
+5. e2-e3 c7-c6
+6. Bf1-d3 Bf8-d6RICHTER-VERESOV ATTACK
+1. d2-d4 d7-d5
+2. Nb1-c3 Ng8-f6
+3. Bc1-g5 Nb8-d7
+4. f2-f3 c7-c55. e2-e4 c5xd4
+6. Bg5xf6 d4xc3
+7. Bf6xc3 d5xe4CATALAN SYSTEM
+OPEN VARIATION
+1. d2-d4 d7-d5
+2. c2-c4 e7-e6
+3. g2-g3 Ng8-f64. Bf1-g2 d5xc4
+5. Ng1-f3 Bf8-e7
+6. 0-0 0-07. Qd1-c2 a7-a6
+DUTCH DEFENCE
+2. Bg5 VARIATION1. d2-d4 f7-f52. Bc1-g5 g7-g6
+3. h2-h4 Bf8-g7
+4. Nb1-c3 d7-d55. e2-e3 c7-c6
+6. Qd1-f3 Bc8-e6TROMPOWSKY ATTACK (1)
+1. d2-d4 Ng8-f62. Bc1-g5 Nf6-e43. Bg5-h4 c7-c5
+4. f2-f3 g7-g5
+5. f3xe4 g5xh46. e2-e3 Bf8-h6CATALAN SYSTEM
+CLOSED VARIATION1. d2-d4 d7-d52. c2-c4 e7-e6
+3. g2-g3 Ng8-f6
+4. Bf1-g2 Bf8-e75. Ng1-f3 0-0
+6. 0-0 Nb8-d7THE ENGLISH OPENING
+It starts:
+1. c2-c4
+
+It was named in honour of Howard
+Staunton, who was the best player in theworld from 1843-1851.
+WHITE SAYS:
+My plan is first of all to control d5. After that, who knows? Perhaps I'll
+transpose to a Queen's Pawn opening. Perhaps I'll play Nc3, g3 and Bg2keeping it as an English. You'll just have to wait and see.
+BLACK SAYS:
+Well, at this point Black can say almost anything. After all only one movehas been played so far and White has yet to reveal his hand. Read on for
+some ideas on what Black might play next.
+
+How should Black reply?
+1. If you like playing the Queen's Gambit with Black play
+1... e6 2. Nc3 (the usual move) 2... d5. You are now
+threatening d4 so White will often play 3. d4 and youhave a Queen's Gambit.
+2. If you like playing the King's Indian Defence play 1...
+Nf6 followed by g6, Bg7, d6 and 0-0. If White plays d4at any time you have a King's Indian Defence.
+3. If you like playing the Nimzo-Indian Defence play 1...
+Nf6 and 2... e6. If White has played Nc3 play 3... Bb4.
+4. If you like playing the Dutch Defence play 1... f5.
+5. If you're an e4 player and like playing against the
+Sicilian Defence play 1... e5. You have a Sicilian Defence
+with colours reversed.
+6. If you like playing the English Opening with White play
+q... c5 with a symmetrical English.Ideas for White:
+1. Remember that your pawn formation determines your
+plan especially in closed positions. If Black keeps the
+position closed head for one of the three diagrams on
+the previous page and learn the middle-game plans forthe one you prefer.
+2. If Black opens the position up with an early d5 play
+energetically and don't waste time. If you have a bishopon g2 try to make the most of it.
+3. In most variations your territory is the Queen-side, your
+opponent's territory is the King-side, so go for a pawnadvance on the Queen-side, usually with b4.
+4. If Black goes for a King-side pawn advance with f7-f5 try
+to block his pawns by playing f2-f4.
+Ideas for Black:
+1. Whatever you do, don't play d5 on move 1: White plays
+c4xd5 and, after Qd8xd5, Nb1-c3, gaining time as wellas a pawn advantage in the centre.
+2. If you're playing an Open Sicilian Reversed don't be too
+agressive. Ideas that work with White will not work ifyour opponent has an extra move.
+3. If you've played an early e5 and/or f5 your territory is
+the King-side. Go for an attack on that side of the board,
+using your pawns.
+4. The English Opening is very popular at all levels from
+Club to Grandmaster. Even if you don't play it with White
+make sure you know a good way of meeting it withBlack.
+A standard English setup for
+White.
+He has started a Queen-side
+attack. Note the Rook` on b1to prepare b4. He will follow
+up with b5 to attack c6,
+supported by the Bishop ong2. White could also play e2-e3 and Ng1-e2 instead of
+Ng1-f3. You may recognise
+this as a Closed Sicilian Reversed.
+The Staunton System.
+White is preparing d4 to gain
+space in the centre of theboard. If Black captures on d4he can take with either the e-
+pawn or the Knight on e2.
+Note that White has playedNg1-e2 not Ng1-f3 to keepthe long diagonal open for his Bishop.
+The Botvinnik System.
+White may choose to attack
+on the Queen-side with b4, onthe King-side with f4, or inthe centre with d4. If Blackdoes nothing about it he may
+be able to get in two or even
+all three of these moves. Thebad news for White is the holeon d4 which Black will try tooccupy with a Knight.THE e5 VARIATION
+1. c2-c4 e7-e5
+2. Nb1-c3 Nb8-g6
+Or Ng8-f6, giving Black the option of c7-c6 followed by d7-
+d5.
+3. Ng1-f3
+White can also play g2-g3 here to play like Staunton orBotvinnik.
+3... Nb8-c6
+Another idea is 3... f7-f5 with a Closed Sicilian Reversed.
+4. g2-g3
+4. d2-d4 is also possible.
+
+Now 4... d7-d5 is a Dragon Reversed. 4... Bf8-b4 is also
+popular. 4... Bf8-c5 can be met by Nf3xe5!THE c5 VARIATION
+1. c2-c4 c7-c5
+2. Nb1-c3
+Or 2. Ng1-f3 heading for a quick d2-d4.
+2... Nb8-c6
+Again he could play Ng8-f6 followed by d7-d5.
+3. g2-g3
+Of course Ng1-f3 is equally good.
+3... g7-g64. Bf1-g2 Bf8-g7
+
+Now White has a wide choice: a2-a3 to prepare b2-b4, e2-
+e3 (Staunton), e2-e4 (Botvinnik), or Ng1-f3 after whichBlack has a similar choice.All openings other than 1. e2-e4 and 1. d2-
+d4 are called FLANK OPENINGS. The rest ofthis book looks at some of these moves.
+THE RÉTI OPENING
+1. Ng1-f3
+
+Named after Richard Réti, who pioneered
+this move in the 1920s.
+If you're Black and you meet this move
+think of it as a close relation of d2-d4 andc2-c4. Don't try to get into a King's pawnopening by playing 1... Nb8-c6: after 2. d2-
+d4 d7-d5 3. c2-c4 you've transposed to the
+risky Chigorin Defence to the Queen'sGambit.White might be playing the Réti with one of
+several ideas in mind:
+1. To attack Black's centre with c2-c4 if
+he plays d2-d4
+2. To play a King's Indian Attack with
+g2-g3, Bf1-g2, 0-0, d2-d3.
+3. To play b2-b3, Bc1-b2 controlling e5.
+4. To transpose into a Queen's Pawn
+opening.
+If you're Black one plan is, as against the
+English, to try to head for your favouritedefence to d4.BIRD'S OPENING
+1. f2-f4
+
+Named after Henry Bird, an English master
+active from about 1850-1900.
+After 1... d7-d5 it's a Dutch Defence
+reversed. White plans a King-side attackusing one of several ideas seen in the DutchDefence.
+Black can also reply 1... e7-e5, and if
+f4xe5, d7-d6 (the FROM GAMBIT), or if 2.
+e2-e4 we have a King's Gambit.Just as White can play either c2-c4 or f2-f4, so he can play
+either Ng1-f3 or Nb1-c3.
+Nb1-c3 (The Queen's Knight Attack or Dunst Opening) is
+rare but not bad. It might transpose to the Vienna Game,
+Closed Sicilian, Richter-Veresov Attack (1. Nb1-c3 d7-d52. d2-d4 Ng8-f6) but also possible is 1. Nb1-c3 d7-d5 2.
+e2-e4 d5-d4 3. Nc3-e2.
+White can also fianchetto on move one:
+1. g2-g3 (the Benko Opening) will usually lead to a
+reversed King's Indian Defence/King's Indian Attack or areversed Pirc Defence.
+Or 1. b2-b3 (the Nimzo-Larsen Attack) aiming to control
+the e5 square.
+Finally, White can push either Knight's Pawn two squares
+instead of one:
+1. b2-b4 (the Sokolsky, Polish or Orang-Utan Opening) is
+unusual but respectable, gaining space on the Queen-side.Black should avoid 1... Nb8-c6 2. b4-b5 as well as 1... e7-
+e6 2. Bc1-b2 Bf8xb4??.
+Finally, 1. g2-g4 (the Grob or Spike) which weakens
+White's King, and, although there are one or two tricky
+lines, is not recommended.ENGLISH OPENING
+e5 4 KNIGHTS: 4. g3 Bb4
+1. c2-c4 e7-e5
+2. Nb1-c3 Nb8-c6
+3. Ng1-f3 Ng8-f64. g2-g3 Bf8-b4
+5. Bf1-g2 0-0ENGLISH OPENING
+BOTVINNIK v SYMMETRICAL
+1. c2-c4 c7-c5
+2. Nb1-c3 Nb8-c6
+3. g2-g3 g7-g64. Bf1-g2 Bf8-g7
+5. e2-e4 e7-e6
+6. Ng1-e2 Ng8-e77RETI OPENING
+2. c4 dxc4
+1. Ng1-f3 d7-d5
+2. c2-c4 d5xc4
+3. Nb1-a3 c7-c54. Na3xc4 Nb8-c6
+5. b2-b3 f7-f6
+6. Bc1-b2 e7-e5
+ENGLISH OPENING
+REVERSE DRAGON
+1. c2-c4 e7-e5
+2. Nb1-c3 Nb8-c6
+3. Ng1-f3 Ng8-f6
+4. g2-g3 d7-d55. c4xd5 Nf6xd5
+6. Bf1-g2 Nd5-b6
+7. 0-0 Bf8-e7ENGLISH OPENING
+FLOHR-MIKENAS SYSTEM
+1. c2-c4 Ng8-f6
+2. Nb1-c3 e7-e6
+3. e2-e4 d7-d5
+4. e4-e5 d5-d45. e5xf6 d4xc3
+6. b2xc3 Qd8xf6RETI OPENING
+Bg4 VARIATION
+1. Ng1-f3 d7-d5
+2. g2-g3 Ng8-f6
+3. Bf1-g2 c7-c6
+4. 0-0 Bc8-g45. c2-c4 e7-e6
+6. b2-b3 Nb8-d7
+ENGLISH OPENING
+STAUNTON SYSTEM v e5
+1. c2-c4 e7-e5
+2. Nb1-c3 Nb8-c6
+3. g2-g3 g7-g6
+4. Bf1-g2 Bf8-g75. e2-e3 d7-d6
+6. Ng1-e2 Ng8-e7ENGLISH OPENING
+NIMZO-ENGLISH
+1. c2-c4 Ng8-f6
+2. Nb1-c3 e7-e6
+3. Ng1-f3 Bf1-b4
+4. Qd1-c2 0-05. a2-a3 Bb4xc3
+6. Qc2xc3 b7-b6KING'S INDIAN ATTACK
+1. Ng1-f3 d7-d5
+2. g2-g3 c7-c53. Bf1-g2 Nb8-c6
+4. 0-0 e7-e6
+5. d2-d3 Ng8-f66. Nb1-d2 Bf8-e7
+7. e2-e4 0-0
+ENGLISH OPENING
+e5+f5 SYSTEM
+1. c2-c4 e7-e5
+2. Nb1-c3 Nb8-c6
+3. g2-g3 f7-f5
+4. Bf1-g2 Ng8-f65. d2-d3 g7-g66. e2-e3 Bf8-g7ENGLISH OPENING
+1... Nf6 2... d5
+1. c2-c4 Ng8-f6
+2. Nb1-c3 d7-d5
+3. c4xd5 Nf6xd5
+4. g2-g3 g7-g65. Bf1-g2 Nd5xc36. b2xc3 Bf8-g7NIMZO-LARSEN ATTACK
+1. b2-b3 d7-d5
+2. Bc1-b2 c7-c53. e2-e3 Ng8-f6
+4. Ng1-f3 e7-e6
+5. Bf1-b5+ Bc8-d7
+ENGLISH OPENING
+SYMMETRICAL: d4
+1. c2-c4 c7-c5
+2. Ng1-f3 Ng8-f63. d2-d4 c5xd4
+4. Nf3xd4 e7-e6
+5. g2-g3 Qd8-c7ENGLISH OPENING
+1... Nf6 2... e6 3... d5
+1. c2-c4 Ng8-f6
+2. Ng1-f3 e7-e63. g2-g3 d7-d5
+4. b2-b3 Bf8-e7
+5. Bf1-g2 0-0BIRD'S OPENING
+1. f2-f4 d7-d5
+2. Ng1-f3 Ng8-f6
+3. e2-e3 g7-g64. Bf1-e2 Bf8-g7
+5. 0-0 0-0
+6. d2-d3 c7-c5
+ENGLISH OPENING
+a3+b4 v SYMMETRICAL
+1. c2-c4 c7-c5
+2. Nb1-c3 Nb8-c6
+3. g2-g3 g7-g64. Bf1-g2 Bf8-g75. a2-a3 a7-a6
+6. Ra1-b1 Ra8-b8RETI OPENING
+2. c4 dxc4
+1. Ng1-f3 d7-d5
+2. c2-c4 d5xc4
+3. Nb1-a3 c7-c54. Na3xc4 Nb8-c65. b2-b3 f7-f6
+6. Bc1-b2 e7-e5FROM GAMBIT
+1. f2-f4 e7-e5
+2. f4xe5 d7-d6
+3. e5xd6 Bf8xd6
+4. Ng1-f3 Ng8-f65. g2-g3 Nb8-c66. Bf1-g2 Bc8-g4
