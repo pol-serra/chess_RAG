@@ -13,16 +13,17 @@ The project extracts semantic vectors from a text corpus (a chess openings book)
 ## Example Workflow
 
 1. **Knowledge Base**: Extracted key insights and strategies from a chess openings book, with a focus on explaining moves, strategies, and common variations.
-2. **Embedding Generation**: Transformed the extracted knowledge into embeddings using **SentenceTransformers** for efficient semantic search.
-3. **Query Matching**: Embedded the user's question, retrieved the top-`k` most relevant passages, and provided this context to Gemini for response generation.
+2. **Embedding Generation**: Transformed the extracted knowledge into 364-dimensional embeddings using **SentenceTransformers** for efficient semantic search.
+3. **Query Matching**: Embedded the user's question, retrieved the `top-k` with the large cosine distance in the embeded text query, and provided this context to Gemini for response generation.
 
 ### Example Interaction
 
 - **User Input**:  
   _"Tell me about the Ruy Lopez opening"_
 
-- **Relevant Context Retrieved**:
+- **Relevant Context Retrieved**
 Context 1:
+```
     OPEN GAMES
     They start:
     1. e2-e4 e7-e5
@@ -49,9 +50,11 @@ Context 1:
     gambits. What should Black do next?Ideas for White:
     Adults will expect the Ruy Lopez while juniors are more used to this sort of opening.
     So it's a good idea to play the Ruy Lopez against juniors, and, for example, the Giuoco
-    Piano against adults.
+    Piano against adults. ... 
+```
 
 Context 2: 
+```
     - 2. d2-d4 e5xd43. c2-c3 d4xc3
     4. Bf1-c4 c3xb2
     5. Bc1xb2 d7-d5THE RUY LOPEZ
@@ -70,7 +73,8 @@ Context 2:
     The tactical battle over the next few moves revolves
     around the two e-pawns. The best way to explain
     this is to go through the most popular variation
-    move by move.
+    move by move. ...+
+````
 
 - **Generated Response**:  
 _"The Ruy Lopez is a classical chess opening where White aims to control the center and target Black's pawn structure, particularly focusing on the e5-pawn. Black’s main strategy is to defend and counterattack, often starting with moves like 3...a6 and 4...Nf6."_  
@@ -79,11 +83,11 @@ _"The Ruy Lopez is a classical chess opening where White aims to control the cen
 
 ## Features
 
-- **SentenceTransformers for Embeddings**:
+**SentenceTransformers for Embeddings**:
 - Pretrained SentenceTransformers models are used to encode the corpus and queries into dense vectors.
-- Efficient similarity search to find top-`k` relevant documents.
+- Efficient similarity search to find `top-k` relevant documents.
 
-- **Gemini for Text Generation**:
+**Gemini for Text Generation**:
 - Leverages retrieved context to provide accurate and detailed answers.
 - Demonstrates RAG capabilities in generating natural language responses.
 
